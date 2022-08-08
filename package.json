@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.9312.0",
+  "version": "2.0.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -10,8 +10,6 @@
     "build:dates": "node script/dates",
     "build:colors": "node script/colors",
     "build:categories": "node script/categories",
-    "build:releases": "node script/releases",
-    "build:readmes": "node script/readmes",
     "build:pack": "node script/pack",
     "prepack": "check-for-leaks",
     "prepush": "check-for-leaks",
@@ -52,7 +50,7 @@
     "human-interval": "^2.0.1",
     "husky": "^8.0.1",
     "image-size": "^1.0.1",
-    "imagemin": "^8.0.1",
+    "imagemin": "^7.0.1",
     "imagemin-pngquant": "^9.0.2",
     "inquirer": "^8.2.4",
     "is-hexcolor": "^1.0.0",
