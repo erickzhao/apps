@@ -1,32 +1,32 @@
 [
   {
     "name": "Productivity",
-    "count": 216,
+    "count": 220,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 172,
+    "count": 178,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 112,
+    "count": 113,
     "slug": "utilities"
   },
   {
     "name": "Social Networking",
-    "count": 43,
+    "count": 45,
     "slug": "social-networking"
   },
   {
     "name": "Music",
-    "count": 42,
+    "count": 43,
     "slug": "music"
   },
   {
     "name": "Photo & Video",
-    "count": 41,
+    "count": 43,
     "slug": "photo-video"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Education",
-    "count": 21,
+    "count": 22,
     "slug": "education"
   },
   {
