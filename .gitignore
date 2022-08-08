@@ -5,7 +5,6 @@
 *-128.png
 *-32.png
 *-64.png
-index.json
 node_modules
 yarn.lock
 .gitsync_lock
