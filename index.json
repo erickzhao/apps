@@ -126,41 +126,6 @@
     "faintColorOnWhite": "rgba(4, 111, 189, 0.1)"
   },
   {
-    "slug": "activechart",
-    "name": "ActiveChart",
-    "description": "Easily create interactive charts",
-    "website": "https://activechart.futureglobe.de/",
-    "category": "Productivity",
-    "keywords": [
-      "chart",
-      "interactive",
-      "tool"
-    ],
-    "screenshots": [
-      {
-        "imageUrl": "https://activechart.futureglobe.de/images/screenshots/Screenshot03.PNG",
-        "caption": "ActiveChart",
-        "imageLink": "https://activechart.futureglobe.de/"
-      }
-    ],
-    "icon": "activechart-icon.png",
-    "icon32": "activechart-icon-32.png",
-    "icon64": "activechart-icon-64.png",
-    "icon128": "activechart-icon-128.png",
-    "icon256": "activechart-icon-256.png",
-    "date": "2019-03-25",
-    "iconColors": [
-      "#0486f3",
-      "#046cc7",
-      "#044d8e",
-      "#107cdc",
-      "#339df6"
-    ],
-    "goodColorOnWhite": "#046CC7",
-    "goodColorOnBlack": "#0486F3",
-    "faintColorOnWhite": "rgba(4, 108, 199, 0.1)"
-  },
-  {
     "slug": "advanced-rest-client",
     "name": "Advanced REST Client",
     "description": "REST client application for developers",
@@ -372,62 +337,6 @@
     "faintColorOnWhite": "rgba(206, 75, 19, 0.1)"
   },
   {
-    "slug": "agantty",
-    "name": "Agantty",
-    "description": "Free project management for unlimited projects, tasks and teams neatly organized in gantt chart",
-    "website": "https://www.agantty.com/downloads",
-    "keywords": [
-      "project management",
-      "gantt",
-      "chart",
-      "todo",
-      "project",
-      "agantty",
-      "team",
-      "productivity",
-      "planning"
-    ],
-    "youtube_video_url": "https://www.youtube.com/watch?v=oPaJuGIewbc",
-    "category": "Productivity",
-    "screenshots": [
-      {
-        "imageUrl": "https://www.agantty.com/wp-content/uploads/2019/01/free-easy-gantt-chart.jpg",
-        "caption": "free gantt chart project management tool",
-        "imageLink": "https://www.agantty.com/en/"
-      },
-      {
-        "imageUrl": "https://www.agantty.com/wp-content/uploads/2019/01/gantt-chart-agantty.jpg",
-        "caption": "resize, drag & drop unlimited projects in your gantt chart view and organize your team",
-        "imageLink": "https://www.agantty.com/en/#about"
-      },
-      {
-        "imageUrl": "https://www.agantty.com/wp-content/uploads/2019/01/todo-dashboard-agantty.jpg",
-        "caption": "see all relevant tasks for your and your team members in the agantty dashboard",
-        "imageLink": "https://www.agantty.com/en/#functions"
-      }
-    ],
-    "locales": [
-      "en-gb",
-      "de-de"
-    ],
-    "icon": "agantty-icon.png",
-    "icon32": "agantty-icon-32.png",
-    "icon64": "agantty-icon-64.png",
-    "icon128": "agantty-icon-128.png",
-    "icon256": "agantty-icon-256.png",
-    "date": "2019-03-24",
-    "iconColors": [
-      "#fafbfa",
-      "#1f9d71",
-      "#6bbfa1",
-      "#53b494",
-      "#8cccbc"
-    ],
-    "goodColorOnWhite": "#197E5B",
-    "goodColorOnBlack": "#1F9D71",
-    "faintColorOnWhite": "rgba(25, 126, 91, 0.1)"
-  },
-  {
     "slug": "aipo-com",
     "name": "Aipo.com",
     "description": "Communication tool to optimize the connection between people",
@@ -456,7 +365,7 @@
   {
     "slug": "airtame",
     "name": "Airtame",
-    "description": "Wireless HDMI",
+    "description": "Hybrid conferencing, screen sharing, & digital signage, all in a single platform",
     "website": "https://www.airtame.com",
     "keywords": [
       "productivity",
@@ -483,141 +392,6 @@
     "goodColorOnWhite": "#026DBE",
     "goodColorOnBlack": "#0D94FC",
     "faintColorOnWhite": "rgba(2, 109, 190, 0.1)"
-  },
-  {
-    "slug": "akiee",
-    "name": "Akiee",
-    "description": "A Markdown-based task manager for hackers and people who build stuff.",
-    "website": "https://rockiger.com/en/akiee/",
-    "repository": "https://github.com/rockiger/akiee",
-    "keywords": [
-      "todo",
-      "task management",
-      "kanban",
-      "personal",
-      "markdown",
-      "productivity",
-      "agile"
-    ],
-    "license": "GPL2",
-    "category": "Productivity",
-    "screenshots": [
-      {
-        "imageUrl": "https://camo.githubusercontent.com/87b2d2649dad262f1e23626a1a603b8800fbcc15/687474703a2f2f726f636b696765722e636f6d2f7374617469632f696d672f616b6965652d6c65616465722d3632362e6a7067"
-      }
-    ],
-    "icon": "akiee-icon.png",
-    "icon32": "akiee-icon-32.png",
-    "icon64": "akiee-icon-64.png",
-    "icon128": "akiee-icon-128.png",
-    "icon256": "akiee-icon-256.png",
-    "date": "2017-06-27",
-    "iconColors": [
-      "#3eadec",
-      "#eceded",
-      "#80c4e9",
-      "#0c0c0c",
-      "#cccccc"
-    ],
-    "goodColorOnWhite": "#0C0C0C",
-    "goodColorOnBlack": "#3EADEC",
-    "faintColorOnWhite": "rgba(12, 12, 12, 0.1)"
-  },
-  {
-    "slug": "alchemy",
-    "name": "Alchemy",
-    "description": "A drag-and-drop file converter for your menubar.",
-    "website": "https://dawnlabs.io/alchemy/",
-    "repository": "https://github.com/dawnlabs/alchemy.git",
-    "keywords": [
-      "convert",
-      "files",
-      "images",
-      "drag-and-drop",
-      "menubar"
-    ],
-    "license": "MIT",
-    "category": "Utilities",
-    "screenshots": [
-      {
-        "imageUrl": "https://cloud.githubusercontent.com/assets/10369094/24595824/7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif"
-      }
-    ],
-    "icon": "alchemy-icon.png",
-    "icon32": "alchemy-icon-32.png",
-    "icon64": "alchemy-icon-64.png",
-    "icon128": "alchemy-icon-128.png",
-    "icon256": "alchemy-icon-256.png",
-    "date": "2017-04-03",
-    "iconColors": [
-      "#e89837",
-      "#dcf2fb",
-      "#dcb680",
-      "#e4cc5e",
-      "#ccccbc"
-    ],
-    "goodColorOnWhite": "#A56313",
-    "goodColorOnBlack": "#E89837",
-    "faintColorOnWhite": "rgba(165, 99, 19, 0.1)"
-  },
-  {
-    "slug": "aliceandbob-io",
-    "name": "aliceandbob.io",
-    "description": "Free, light and easy to use PGP tool.",
-    "website": "https://aliceandbob.io/",
-    "category": "Utilities",
-    "repository": "https://github.com/aliceandbob-io/aliceandbob-desktop",
-    "keywords": [
-      "encryption",
-      "PGP",
-      "keys",
-      "alice",
-      "bob",
-      "generate",
-      "encrypt",
-      "decrypt",
-      "public key",
-      "private key"
-    ],
-    "license": "MIT",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/aliceandbob-io/files/main/features_generate.png",
-        "caption": "Generate PGP keys",
-        "imageLink": "https://aliceandbob.io/"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/aliceandbob-io/files/main/features_encrypt.png",
-        "caption": "Encrypt a message",
-        "imageLink": "https://aliceandbob.io/"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/aliceandbob-io/files/main/features_encrypt.png",
-        "caption": "Decrypt a message",
-        "imageLink": "https://aliceandbob.io/"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/aliceandbob-io/files/main/screenshot%20-%20landing.png",
-        "caption": "Landing page",
-        "imageLink": "https://aliceandbob.io/"
-      }
-    ],
-    "icon": "aliceandbob-io-icon.png",
-    "icon32": "aliceandbob-io-icon-32.png",
-    "icon64": "aliceandbob-io-icon-64.png",
-    "icon128": "aliceandbob-io-icon-128.png",
-    "icon256": "aliceandbob-io-icon-256.png",
-    "date": "2021-04-02",
-    "iconColors": [
-      "#e3e31b",
-      "#060604",
-      "#8f9111",
-      "#74740c",
-      "#6c740c"
-    ],
-    "goodColorOnWhite": "#74740C",
-    "goodColorOnBlack": "#E3E31B",
-    "faintColorOnWhite": "rgba(116, 116, 12, 0.1)"
   },
   {
     "slug": "altair",
@@ -668,84 +442,6 @@
     "faintColorOnWhite": "rgba(52, 120, 158, 0.1)"
   },
   {
-    "slug": "altus",
-    "name": "Altus",
-    "description": "Desktop client for WhatsApp with themes and multiple account support",
-    "repository": "https://github.com/amanharwara/altus",
-    "keywords": [
-      "altus",
-      "chat",
-      "themes"
-    ],
-    "license": "GPLv3",
-    "category": "Social Networking",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-First-Start.png",
-        "caption": "First Start"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-Default-Theme.png",
-        "caption": "Default Theme"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-Dark-Theme.png",
-        "caption": "Dark Theme"
-      }
-    ],
-    "icon": "altus-icon.png",
-    "icon32": "altus-icon-32.png",
-    "icon64": "altus-icon-64.png",
-    "icon128": "altus-icon-128.png",
-    "icon256": "altus-icon-256.png",
-    "date": "2019-03-24",
-    "iconColors": [
-      "#272450",
-      "#0d6ada",
-      "#fafbfb",
-      "#5ea0e4",
-      "#757390"
-    ],
-    "goodColorOnWhite": "#0D6ADA",
-    "goodColorOnBlack": "#5EA0E4",
-    "faintColorOnWhite": "rgba(13, 106, 218, 0.1)"
-  },
-  {
-    "slug": "amanote",
-    "name": "amanote",
-    "description": "Note-taking for lectures and presentations",
-    "website": "https://amanote.com",
-    "category": "Education",
-    "keywords": [
-      "notes",
-      "slides",
-      "learning",
-      "students",
-      "education",
-      "presentations",
-      "reference",
-      "school",
-      "LaTex",
-      "documentation"
-    ],
-    "icon": "amanote-icon.png",
-    "icon32": "amanote-icon-32.png",
-    "icon64": "amanote-icon-64.png",
-    "icon128": "amanote-icon-128.png",
-    "icon256": "amanote-icon-256.png",
-    "date": "2018-04-10",
-    "iconColors": [
-      "#39d17f",
-      "#f7fbf9",
-      "#84e3b0",
-      "#9aebc4",
-      "#67e3a5"
-    ],
-    "goodColorOnWhite": "#18844E",
-    "goodColorOnBlack": "#67E3A5",
-    "faintColorOnWhite": "rgba(24, 132, 78, 0.1)"
-  },
-  {
     "slug": "amialive",
     "name": "Amialive",
     "description": "Visual HTTP client and collaboration tool.",
@@ -784,64 +480,6 @@
     "goodColorOnWhite": "#214A71",
     "goodColorOnBlack": "#FB7F50",
     "faintColorOnWhite": "rgba(33, 74, 113, 0.1)"
-  },
-  {
-    "slug": "android-messages",
-    "name": "Android Messages",
-    "description": "Cross Platform Native SMS App for macOS, Linux, and Windows 🤓",
-    "repository": "https://github.com/nparsons08/android-messages",
-    "category": "Productivity",
-    "icon": "android-messages-icon.png",
-    "icon32": "android-messages-icon-32.png",
-    "icon64": "android-messages-icon-64.png",
-    "icon128": "android-messages-icon-128.png",
-    "icon256": "android-messages-icon-256.png",
-    "date": "2019-03-22",
-    "iconColors": [
-      "#335cc4",
-      "#e9e9e9",
-      "#7690cf",
-      "#94a4d4",
-      "#a4acd4"
-    ],
-    "goodColorOnWhite": "#335CC4",
-    "goodColorOnBlack": "#7690CF",
-    "faintColorOnWhite": "rgba(51, 92, 196, 0.1)"
-  },
-  {
-    "slug": "anote",
-    "name": "ANote",
-    "description": "A Simple Friendly Markdown Note.",
-    "repository": "https://github.com/AnotherNote/anote",
-    "keywords": [
-      "React",
-      "Markdown",
-      "Note",
-      "Redux",
-      "Codemirror"
-    ],
-    "category": "Productivity",
-    "screenshots": [
-      {
-        "imageUrl": "https://camo.githubusercontent.com/ab6c86130905fea1fceb247d96564c056fb1c1f7/68747470733a2f2f692e696d6775722e636f6d2f6b3559724248632e676966"
-      }
-    ],
-    "icon": "anote-icon.png",
-    "icon32": "anote-icon-32.png",
-    "icon64": "anote-icon-64.png",
-    "icon128": "anote-icon-128.png",
-    "icon256": "anote-icon-256.png",
-    "date": "2016-09-21",
-    "iconColors": [
-      "#fbefef",
-      "#f10404",
-      "#f65e5e",
-      "#f87c7c",
-      "#f43c3c"
-    ],
-    "goodColorOnWhite": "#D90404",
-    "goodColorOnBlack": "#F10404",
-    "faintColorOnWhite": "rgba(217, 4, 4, 0.1)"
   },
   {
     "slug": "anotherredisdesktopmanager",
@@ -1007,103 +645,6 @@
     "faintColorOnWhite": "rgba(88, 95, 252, 0.1)"
   },
   {
-    "slug": "argo",
-    "name": "Argo",
-    "description": "An open source trading platform",
-    "website": "https://argo.js.org/",
-    "repository": "https://github.com/albertosantini/argo",
-    "keywords": [
-      "trading"
-    ],
-    "category": "Finance",
-    "screenshots": [
-      {
-        "imageUrl": "https://argo.js.org/images/screenshot-v5.jpg"
-      }
-    ],
-    "icon": "argo-icon.png",
-    "icon32": "argo-icon-32.png",
-    "icon64": "argo-icon-64.png",
-    "icon128": "argo-icon-128.png",
-    "icon256": "argo-icon-256.png",
-    "date": "2016-02-23",
-    "iconColors": [
-      "#9fbeb7",
-      "#141717",
-      "#ee5c54",
-      "#f9645c",
-      "#eceeee"
-    ],
-    "goodColorOnWhite": "#141717",
-    "goodColorOnBlack": "#F9645C",
-    "faintColorOnWhite": "rgba(20, 23, 23, 0.1)"
-  },
-  {
-    "slug": "arizona",
-    "name": "Arizona",
-    "description": "Personal assistant, spotify mini-player and friend.",
-    "website": "https://strnadchristopher.github.io/arizonaPage/",
-    "category": "Entertainment",
-    "repository": "https://github.com/strnadchristopher/arizona",
-    "keywords": [
-      "ai",
-      "music",
-      "spotify",
-      "weather",
-      "siri",
-      "cortana"
-    ],
-    "license": "GPL-3.0",
-    "icon": "arizona-icon.png",
-    "icon32": "arizona-icon-32.png",
-    "icon64": "arizona-icon-64.png",
-    "icon128": "arizona-icon-128.png",
-    "icon256": "arizona-icon-256.png",
-    "date": "2020-08-22",
-    "iconColors": [
-      "#2c9bb7",
-      "#4433a0",
-      "#2d61a6",
-      "#9cdc85",
-      "#7cd47c"
-    ],
-    "goodColorOnWhite": "#2D61A6",
-    "goodColorOnBlack": "#2C9BB7",
-    "faintColorOnWhite": "rgba(45, 97, 166, 0.1)"
-  },
-  {
-    "slug": "armcord",
-    "name": "ArmCord",
-    "description": "Custom Discord client designed to enhance your experience while keeping everything lightweight.",
-    "website": "https://armcord.xyz/",
-    "category": "Social Networking",
-    "repository": "https://github.com/ArmCord/ArmCord",
-    "license": "OSL-3.0",
-    "keywords": [
-      "chat",
-      "client",
-      "social",
-      "media",
-      "discord"
-    ],
-    "icon": "armcord-icon.png",
-    "icon32": "armcord-icon-32.png",
-    "icon64": "armcord-icon-64.png",
-    "icon128": "armcord-icon-128.png",
-    "icon256": "armcord-icon-256.png",
-    "date": "2022-08-05",
-    "iconColors": [
-      "#24242c",
-      "#8c9fbb",
-      "#69767e",
-      "#505966",
-      "#646c74"
-    ],
-    "goodColorOnWhite": "#505966",
-    "goodColorOnBlack": "#8C9FBB",
-    "faintColorOnWhite": "rgba(80, 89, 102, 0.1)"
-  },
-  {
     "slug": "assessment-disaggregation",
     "name": "Assessment Disaggregation",
     "description": "Uses pre- and post-test exam files from most exam systems to determine true learning.",
@@ -1243,160 +784,6 @@
     "goodColorOnWhite": "#616161",
     "goodColorOnBlack": "#A0D792",
     "faintColorOnWhite": "rgba(97, 97, 97, 0.1)"
-  },
-  {
-    "slug": "audionodes",
-    "name": "AudioNodes",
-    "description": "Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.",
-    "website": "https://audionodes.com/",
-    "category": "Productivity",
-    "keywords": [
-      "music",
-      "productivity",
-      "utilities"
-    ],
-    "icon": "audionodes-icon.png",
-    "icon32": "audionodes-icon-32.png",
-    "icon64": "audionodes-icon-64.png",
-    "icon128": "audionodes-icon-128.png",
-    "icon256": "audionodes-icon-256.png",
-    "date": "2018-02-05",
-    "iconColors": [
-      "#048e94",
-      "#04b8bf",
-      "#04a9b0",
-      "#04b4b4",
-      "#04a4a4"
-    ],
-    "goodColorOnWhite": "#03797E",
-    "goodColorOnBlack": "#04B8BF",
-    "faintColorOnWhite": "rgba(3, 121, 126, 0.1)"
-  },
-  {
-    "slug": "auryo",
-    "name": "Auryo",
-    "description": "Unofficial multiplatform SoundCloud® app for your desktop",
-    "website": "https://auryo.com/",
-    "category": "Music",
-    "repository": "https://github.com/Superjo149/auryo",
-    "keywords": [
-      "music",
-      "player",
-      "Soundcloud"
-    ],
-    "icon": "auryo-icon.png",
-    "icon32": "auryo-icon-32.png",
-    "icon64": "auryo-icon-64.png",
-    "icon128": "auryo-icon-128.png",
-    "icon256": "auryo-icon-256.png",
-    "date": "2017-08-29",
-    "iconColors": [
-      "#4a86b2",
-      "#242424",
-      "#2c3c46",
-      "#324c63",
-      "#3c5c74"
-    ],
-    "goodColorOnWhite": "#324C63",
-    "goodColorOnBlack": "#4A86B2",
-    "faintColorOnWhite": "rgba(50, 76, 99, 0.1)"
-  },
-  {
-    "slug": "authme",
-    "name": "Authme",
-    "description": "Cross platform simple two-factor authentication app for desktop.",
-    "repository": "https://github.com/Levminer/authme",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/Levminer/authme/dev/screenshots/application.png?raw=true"
-      }
-    ],
-    "keywords": [
-      "authme"
-    ],
-    "category": "Utilities",
-    "icon": "authme-icon.png",
-    "icon32": "authme-icon-32.png",
-    "icon64": "authme-icon-64.png",
-    "icon128": "authme-icon-128.png",
-    "icon256": "authme-icon-256.png",
-    "date": "2020-12-11",
-    "iconColors": [
-      "#040404",
-      "#080404",
-      "#080404",
-      "#080404",
-      "#080404"
-    ],
-    "goodColorOnWhite": "#080404",
-    "goodColorOnBlack": "#FFF",
-    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
-  },
-  {
-    "slug": "avocode",
-    "name": "Avocode",
-    "description": "One workspace open to all designers and developers",
-    "website": "https://avocode.com/",
-    "keywords": [
-      "developer tools"
-    ],
-    "category": "Developer Tools",
-    "icon": "avocode-icon.png",
-    "icon32": "avocode-icon-32.png",
-    "icon64": "avocode-icon-64.png",
-    "icon128": "avocode-icon-128.png",
-    "icon256": "avocode-icon-256.png",
-    "date": "2015-04-08",
-    "iconColors": [
-      "#fbfbfb",
-      "#42d807",
-      "#95f60c",
-      "#a7e997",
-      "#c6f7a5"
-    ],
-    "goodColorOnWhite": "#278104",
-    "goodColorOnBlack": "#42D807",
-    "faintColorOnWhite": "rgba(39, 129, 4, 0.1)"
-  },
-  {
-    "slug": "backlog",
-    "name": "Backlog",
-    "description": "Simple desktop app for storing lists of items (todo, tasks, backlog items)",
-    "category": "Utilities",
-    "repository": "https://github.com/czytelny/backlog.git",
-    "keywords": [
-      "tasks",
-      "manager",
-      "todo",
-      "items",
-      "backlog",
-      "organizer",
-      "simple"
-    ],
-    "license": "MIT",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/czytelny/backlog/master/backlog_screenshot_1.png",
-        "caption": "Backlog - simple desktop app for storing lists of items",
-        "imageLink": "https://czytelny.github.io/backlog/"
-      }
-    ],
-    "icon": "backlog-icon.png",
-    "icon32": "backlog-icon-32.png",
-    "icon64": "backlog-icon-64.png",
-    "icon128": "backlog-icon-128.png",
-    "icon256": "backlog-icon-256.png",
-    "date": "2017-08-29",
-    "iconColors": [
-      "#46b383",
-      "#344c5c",
-      "#3d8771",
-      "#3c6c6c",
-      "#3c9c74"
-    ],
-    "goodColorOnWhite": "#3C6C6C",
-    "goodColorOnBlack": "#46B383",
-    "faintColorOnWhite": "rgba(60, 108, 108, 0.1)"
   },
   {
     "slug": "baiplay",
@@ -1794,33 +1181,6 @@
     "faintColorOnWhite": "rgba(124, 100, 20, 0.1)"
   },
   {
-    "slug": "beveldm",
-    "name": "Bevel Download Manager",
-    "description": "Open-source and cross-platform download manager.",
-    "repository": "https://github.com/tariibaba/beveldm",
-    "category": "Utilities",
-    "keywords": [
-      "download",
-      "download manager"
-    ],
-    "icon": "beveldm-icon.png",
-    "icon32": "beveldm-icon-32.png",
-    "icon64": "beveldm-icon-64.png",
-    "icon128": "beveldm-icon-128.png",
-    "icon256": "beveldm-icon-256.png",
-    "date": "2020-11-25",
-    "iconColors": [
-      "#fcfcfc",
-      "#047cd4",
-      "#64ace4",
-      "#348ddc",
-      "#c0ffe8"
-    ],
-    "goodColorOnWhite": "#008152",
-    "goodColorOnBlack": "#C0FFE8",
-    "faintColorOnWhite": "rgba(0, 129, 82, 0.1)"
-  },
-  {
     "slug": "bibisco",
     "name": "bibisco",
     "description": "Novel writing software that helps you to write your novel, in a simple way. Use bibisco to develop characters, design novel structure, organize chapters and scenes, analyze the novel, set your goals and, of course, writing!.",
@@ -1934,68 +1294,6 @@
     "faintColorOnWhite": "rgba(5, 69, 5, 0.1)"
   },
   {
-    "slug": "birds-kitchen",
-    "name": "Birds Kitchen",
-    "description": "Free and open source recipe manager.",
-    "website": "https://tenbirds.online/birdskitchen/",
-    "repository": "https://github.com/fredserva/birdskitchen",
-    "keywords": [
-      "recipes",
-      "manager"
-    ],
-    "category": "Food & Drink",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/01.png",
-        "caption": "Dark and light theme - Grid view"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/02.png",
-        "caption": "Image list view"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/03.png",
-        "caption": "Table view"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/04.png",
-        "caption": "Print view"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/05.png",
-        "caption": "Edit view"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/06.png",
-        "caption": "Preferences screen - Storage tab"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/07.png",
-        "caption": "Preferences screen - Theme tab"
-      }
-    ],
-    "locales": [
-      "en-US",
-      "fr-FR"
-    ],
-    "icon": "birds-kitchen-icon.png",
-    "icon32": "birds-kitchen-icon-32.png",
-    "icon64": "birds-kitchen-icon-64.png",
-    "icon128": "birds-kitchen-icon-128.png",
-    "icon256": "birds-kitchen-icon-256.png",
-    "date": "2020-11-18",
-    "iconColors": [
-      "#048383",
-      "#ee973c",
-      "#3b2c24",
-      "#44acac",
-      "#7cd4cc"
-    ],
-    "goodColorOnWhite": "#048383",
-    "goodColorOnBlack": "#048383",
-    "faintColorOnWhite": "rgba(4, 131, 131, 0.1)"
-  },
-  {
     "slug": "biscuit",
     "name": "Biscuit",
     "description": "Browser where your favorite apps won't get buried in tabs.",
@@ -2046,88 +1344,6 @@
     "goodColorOnWhite": "#995F0C",
     "goodColorOnBlack": "#F3BB6B",
     "faintColorOnWhite": "rgba(153, 95, 12, 0.1)"
-  },
-  {
-    "slug": "blankup",
-    "name": "BlankUp",
-    "description": "Markdown editor witch clarity +1",
-    "website": "https://hoverbaum.github.io/BlankUp-Electron/",
-    "repository": "https://github.com/HoverBaum/BlankUp-Electron",
-    "keywords": [
-      "markdown",
-      "editor",
-      "productivity"
-    ],
-    "category": "Productivity",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/HoverBaum/BlankUp-Electron/master/img/BlankUpDemo.png"
-      }
-    ],
-    "icon": "blankup-icon.png",
-    "icon32": "blankup-icon-32.png",
-    "icon64": "blankup-icon-64.png",
-    "icon128": "blankup-icon-128.png",
-    "icon256": "blankup-icon-256.png",
-    "date": "2016-08-04",
-    "iconColors": [
-      "#1b1464",
-      "#0474bc",
-      "#0c4c94",
-      "#100a35",
-      "#0454a4"
-    ],
-    "goodColorOnWhite": "#0474BC",
-    "goodColorOnBlack": "#0481D1",
-    "faintColorOnWhite": "rgba(4, 116, 188, 0.1)"
-  },
-  {
-    "slug": "blink-mind-desktop",
-    "name": "Blink Mind Desktop",
-    "description": "Full featured mind map and outliner app.",
-    "repository": "https://github.com/awehook/blink-mind-desktop",
-    "license": "MIT",
-    "keywords": [
-      "productivity",
-      "mindmap",
-      "outliner",
-      "note"
-    ],
-    "locales": [
-      "zh-CN",
-      "en"
-    ],
-    "category": "Productivity",
-    "screenshots": [
-      {
-        "imageUrl": "https://github.com/awehook/images/raw/master/blink-mind-desktop/blink-mind-mindmap-light.png"
-      },
-      {
-        "imageUrl": "https://github.com/awehook/images/raw/master/blink-mind-desktop/blink-mind-mindmap.png"
-      },
-      {
-        "imageUrl": "https://github.com/awehook/images/raw/master/blink-mind-desktop/blink-mind-mindmap-pink.png"
-      },
-      {
-        "imageUrl": "https://github.com/awehook/images/raw/master/blink-mind-desktop/blink-mind-outliner.png"
-      }
-    ],
-    "icon": "blink-mind-desktop-icon.png",
-    "icon32": "blink-mind-desktop-icon-32.png",
-    "icon64": "blink-mind-desktop-icon-64.png",
-    "icon128": "blink-mind-desktop-icon-128.png",
-    "icon256": "blink-mind-desktop-icon-256.png",
-    "date": "2020-04-28",
-    "iconColors": [
-      "#e6850d",
-      "#fbfbfa",
-      "#cc2f04",
-      "#fbc514",
-      "#591c04"
-    ],
-    "goodColorOnWhite": "#CC2F04",
-    "goodColorOnBlack": "#FBC514",
-    "faintColorOnWhite": "rgba(204, 47, 4, 0.1)"
   },
   {
     "slug": "blockbench",
@@ -2204,38 +1420,6 @@
     "goodColorOnWhite": "#865933",
     "goodColorOnBlack": "#07953F",
     "faintColorOnWhite": "rgba(134, 89, 51, 0.1)"
-  },
-  {
-    "slug": "boostnote",
-    "name": "Boostnote",
-    "description": "Simple note-taking app for programmers",
-    "website": "https://boostnote.io",
-    "repository": "https://github.com/BoostIO/Boostnote",
-    "keywords": [
-      "notes"
-    ],
-    "category": "Productivity",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/repository/top.png"
-      }
-    ],
-    "icon": "boostnote-icon.png",
-    "icon32": "boostnote-icon-32.png",
-    "icon64": "boostnote-icon-64.png",
-    "icon128": "boostnote-icon-128.png",
-    "icon256": "boostnote-icon-256.png",
-    "date": "2017-03-10",
-    "iconColors": [
-      "#f1faf6",
-      "#04c484",
-      "#59d8ae",
-      "#94e7ce",
-      "#2fd19c"
-    ],
-    "goodColorOnWhite": "#037E55",
-    "goodColorOnBlack": "#04C484",
-    "faintColorOnWhite": "rgba(3, 126, 85, 0.1)"
   },
   {
     "slug": "bootstrap-studio",
@@ -2685,41 +1869,6 @@
     "faintColorOnWhite": "rgba(4, 114, 179, 0.1)"
   },
   {
-    "slug": "calcy",
-    "name": "Calcy",
-    "description": "A simple and basic calculator app.",
-    "repository": "https://github.com/VarunDevPro/calcy",
-    "website": "https://varundevpro.github.io/calcy",
-    "license": "MIT",
-    "keywords": [
-      "calculator",
-      "arithmetic",
-      "math"
-    ],
-    "category": "Productivity",
-    "screenshots": [
-      {
-        "imageUrl": "https://varundevpro.github.io/calcy/calcy.png"
-      }
-    ],
-    "icon": "calcy-icon.png",
-    "icon32": "calcy-icon-32.png",
-    "icon64": "calcy-icon-64.png",
-    "icon128": "calcy-icon-128.png",
-    "icon256": "calcy-icon-256.png",
-    "date": "2018-01-23",
-    "iconColors": [
-      "#be4339",
-      "#e4e4e4",
-      "#bc9a98",
-      "#7d7d7d",
-      "#f47c74"
-    ],
-    "goodColorOnWhite": "#BE4339",
-    "goodColorOnBlack": "#F47C74",
-    "faintColorOnWhite": "rgba(190, 67, 57, 0.1)"
-  },
-  {
     "slug": "calmlywriter",
     "name": "Calmly Writer",
     "description": "The Ultimate Distraction-Free Writing App.",
@@ -2955,44 +2104,6 @@
     "faintColorOnWhite": "rgba(46, 94, 94, 0.1)"
   },
   {
-    "slug": "cashcash",
-    "name": "Cashcash",
-    "description": "The accounting app for visual people.",
-    "category": "Finance",
-    "repository": "https://github.com/Winbee/cashcash-desktop",
-    "locales": [
-      "en-US",
-      "fr-FR"
-    ],
-    "keywords": [
-      "finance",
-      "accounting",
-      "management",
-      "cash",
-      "bookkeeping",
-      "budget",
-      "graph",
-      "chart"
-    ],
-    "license": "MIT",
-    "icon": "cashcash-icon.png",
-    "icon32": "cashcash-icon-32.png",
-    "icon64": "cashcash-icon-64.png",
-    "icon128": "cashcash-icon-128.png",
-    "icon256": "cashcash-icon-256.png",
-    "date": "2019-11-19",
-    "iconColors": [
-      "#f9d720",
-      "#5c68d5",
-      "#3e457c",
-      "#beb468",
-      "#acac94"
-    ],
-    "goodColorOnWhite": "#5C68D5",
-    "goodColorOnBlack": "#F9D720",
-    "faintColorOnWhite": "rgba(92, 104, 213, 0.1)"
-  },
-  {
     "slug": "cashnotify",
     "name": "CashNotify",
     "description": "Monitor your Stripe accounts from your menu bar.",
@@ -3022,35 +2133,6 @@
     "goodColorOnWhite": "#3C247C",
     "goodColorOnBlack": "#C4A4E4",
     "faintColorOnWhite": "rgba(60, 36, 124, 0.1)"
-  },
-  {
-    "slug": "catalyst",
-    "name": "Catalyst Web Browser",
-    "description": "Beautiful and fast tailwindcss web browser designed with the user in mind.",
-    "website": "https://get-catalyst.github.io",
-    "repository": "https://github.com/JaydenDev/Catalyst",
-    "category": "Navigation",
-    "keywords": [
-      "Internet",
-      "Browser",
-      "Open Source"
-    ],
-    "icon": "catalyst-icon.png",
-    "icon32": "catalyst-icon-32.png",
-    "icon64": "catalyst-icon-64.png",
-    "icon128": "catalyst-icon-128.png",
-    "icon256": "catalyst-icon-256.png",
-    "date": "2022-03-19",
-    "iconColors": [
-      "#fbfbfb",
-      "#181637",
-      "#8644cd",
-      "#7c7c7c",
-      "#6e84d0"
-    ],
-    "goodColorOnWhite": "#8644CD",
-    "goodColorOnBlack": "#6E84D0",
-    "faintColorOnWhite": "rgba(134, 68, 205, 0.1)"
   },
   {
     "slug": "catlight",
@@ -3121,36 +2203,6 @@
     "goodColorOnWhite": "#5B7903",
     "goodColorOnBlack": "#7BA304",
     "faintColorOnWhite": "rgba(91, 121, 3, 0.1)"
-  },
-  {
-    "slug": "cells",
-    "name": "Cells",
-    "description": "An Implementation of Conways Game of Life",
-    "category": "Games",
-    "repository": "https://github.com/FlorianFe/Cells",
-    "keywords": [
-      "conway",
-      "game",
-      "life",
-      "cell",
-      "automata"
-    ],
-    "icon": "cells-icon.png",
-    "icon32": "cells-icon-32.png",
-    "icon64": "cells-icon-64.png",
-    "icon128": "cells-icon-128.png",
-    "icon256": "cells-icon-256.png",
-    "date": "2018-06-18",
-    "iconColors": [
-      "#245f83",
-      "#fafbfb",
-      "#9bc7e1",
-      "#7c7c7c",
-      "#838484"
-    ],
-    "goodColorOnWhite": "#245F83",
-    "goodColorOnBlack": "#9BC7E1",
-    "faintColorOnWhite": "rgba(36, 95, 131, 0.1)"
   },
   {
     "slug": "chatwork",
@@ -3227,32 +2279,6 @@
     "faintColorOnWhite": "rgba(52, 97, 115, 0.1)"
   },
   {
-    "slug": "chronocube",
-    "name": "Chronocube",
-    "description": "Your rubik's cube solves",
-    "website": "https://pablopunk.github.io/chronocube",
-    "keywords": [
-      "Games"
-    ],
-    "category": "Games",
-    "icon": "chronocube-icon.png",
-    "icon32": "chronocube-icon-32.png",
-    "icon64": "chronocube-icon-64.png",
-    "icon128": "chronocube-icon-128.png",
-    "icon256": "chronocube-icon-256.png",
-    "date": "2016-03-08",
-    "iconColors": [
-      "#dadadf",
-      "#7445c0",
-      "#a75dcd",
-      "#af98cc",
-      "#c4accc"
-    ],
-    "goodColorOnWhite": "#7445C0",
-    "goodColorOnBlack": "#A75DCD",
-    "faintColorOnWhite": "rgba(116, 69, 192, 0.1)"
-  },
-  {
     "slug": "cider",
     "name": "Cider",
     "description": "Open Source and extremely performant Apple Music client.",
@@ -3286,122 +2312,6 @@
     "goodColorOnWhite": "#D3244C",
     "goodColorOnBlack": "#FB2454",
     "faintColorOnWhite": "rgba(211, 36, 76, 0.1)"
-  },
-  {
-    "slug": "circuit",
-    "name": "Circuit",
-    "description": "Make your teamwork better",
-    "website": "https://www.circuit.com/",
-    "keywords": [
-      "collaboration",
-      "chat",
-      "conference",
-      "video",
-      "screenshare",
-      "webrtc"
-    ],
-    "category": "Social Networking",
-    "icon": "circuit-icon.png",
-    "icon32": "circuit-icon-32.png",
-    "icon64": "circuit-icon-64.png",
-    "icon128": "circuit-icon-128.png",
-    "icon256": "circuit-icon-256.png",
-    "date": "2017-05-19",
-    "iconColors": [
-      "#8bc442",
-      "#fbfbf9",
-      "#bcdd92",
-      "#b1d981",
-      "#a4d36b"
-    ],
-    "goodColorOnWhite": "#577F26",
-    "goodColorOnBlack": "#B1D981",
-    "faintColorOnWhite": "rgba(87, 127, 38, 0.1)"
-  },
-  {
-    "slug": "cleaver",
-    "name": "Cleavr",
-    "description": "Simply provision, deploy, and manage servers, websites, and apps",
-    "website": "https://cleavr.io",
-    "category": "Developer Tools",
-    "keywords": [
-      "Server provisioning",
-      "AdonisJS",
-      "NodeJS",
-      "Laravel",
-      "WordPress",
-      "Jekyll deployments",
-      "Laravel deployments",
-      "WordPress deployments",
-      "Static site deployments",
-      "Free SSL certificates",
-      "Laravel LetsEncrypt",
-      "Certbot",
-      "zero downtime",
-      "Laravel SSH Keys",
-      "deployments",
-      "Laravel Nginx",
-      "WordPress Nginx",
-      "push to deploy",
-      "PHP deploy",
-      "MySQL",
-      "MariaDB",
-      "Redis",
-      "Memcached",
-      "deploy desktop"
-    ],
-    "screenshots": [
-      {
-        "imageUrl": "https://cleavr.io/images/newsite.png",
-        "caption": "Quickly spin up a server for your site",
-        "imageLink": "https://cleavr.io"
-      }
-    ],
-    "icon": "cleaver-icon.png",
-    "icon32": "cleaver-icon-32.png",
-    "icon64": "cleaver-icon-64.png",
-    "icon128": "cleaver-icon-128.png",
-    "icon256": "cleaver-icon-256.png",
-    "date": "2018-05-10",
-    "iconColors": [
-      "#7630be",
-      "#e8ecf0",
-      "#2c2c2d",
-      "#b488d4",
-      "#572c8a"
-    ],
-    "goodColorOnWhite": "#7630BE",
-    "goodColorOnBlack": "#B488D4",
-    "faintColorOnWhite": "rgba(118, 48, 190, 0.1)"
-  },
-  {
-    "slug": "clipboard-manager-electron",
-    "name": "clipboard-manager-electron",
-    "description": "A clipboard manager built with Electron",
-    "category": "Productivity",
-    "repository": "https://github.com/dotenorio/clipboard-manager-electron.git",
-    "keywords": [
-      "javascript",
-      "clipboard",
-      "clipboard-manager"
-    ],
-    "license": "MIT",
-    "icon": "clipboard-manager-electron-icon.png",
-    "icon32": "clipboard-manager-electron-icon-32.png",
-    "icon64": "clipboard-manager-electron-icon-64.png",
-    "icon128": "clipboard-manager-electron-icon-128.png",
-    "icon256": "clipboard-manager-electron-icon-256.png",
-    "date": "2018-10-18",
-    "iconColors": [
-      "#9c90a4",
-      "#f1edf1",
-      "#b3acbb",
-      "#c2bac7",
-      "#bcb4bc"
-    ],
-    "goodColorOnWhite": "#816481",
-    "goodColorOnBlack": "#F1EDF1",
-    "faintColorOnWhite": "rgba(129, 100, 129, 0.1)"
   },
   {
     "slug": "clipper",
@@ -3570,62 +2480,6 @@
     "faintColorOnWhite": "rgba(97, 121, 44, 0.1)"
   },
   {
-    "slug": "cloudcmd",
-    "name": "Cloud Commander",
-    "description": "Orthodox web file manager with console and editor",
-    "website": "https://cloudcmd.io",
-    "repository": "https://github.com/coderaiser/cloudcmd",
-    "keywords": [
-      "console",
-      "edit",
-      "editor",
-      "file",
-      "file manager",
-      "folder",
-      "orthodox",
-      "view",
-      "viewer",
-      "copy",
-      "rename",
-      "move",
-      "rm",
-      "mv",
-      "cp",
-      "delete",
-      "delete file",
-      "delete directory",
-      "remove",
-      "remove file",
-      "remove directory",
-      "file operation",
-      "pack",
-      "server"
-    ],
-    "license": "MIT",
-    "category": "Productivity",
-    "screenshots": [
-      {
-        "imageUrl": "https://camo.githubusercontent.com/364165d2f5fc40ae1b5354b5793f696bd192776d/687474703a2f2f636c6f7564636d642e696f2f696d672f6c6f676f2f636c6f7564636d642e706e67"
-      }
-    ],
-    "icon": "cloudcmd-icon.png",
-    "icon32": "cloudcmd-icon-32.png",
-    "icon64": "cloudcmd-icon-64.png",
-    "icon128": "cloudcmd-icon-128.png",
-    "icon256": "cloudcmd-icon-256.png",
-    "date": "2016-12-13",
-    "iconColors": [
-      "#2c7bfc",
-      "#f8f9fc",
-      "#77a8fc",
-      "#94bcfc",
-      "#5c9cfc"
-    ],
-    "goodColorOnWhite": "#0F69FC",
-    "goodColorOnBlack": "#2C7BFC",
-    "faintColorOnWhite": "rgba(15, 105, 252, 0.1)"
-  },
-  {
     "slug": "clovery",
     "name": "Clovery",
     "description": "All Google Apps in One.",
@@ -3756,167 +2610,6 @@
     "goodColorOnWhite": "#6D7579",
     "goodColorOnBlack": "#899195",
     "faintColorOnWhite": "rgba(109, 117, 121, 0.1)"
-  },
-  {
-    "slug": "code-notes",
-    "name": "Code Notes",
-    "description": "A simple code snippet manager for developers built with Electron & Vue.js",
-    "website": "https://lauthieb.github.io/code-notes",
-    "category": "Developer Tools",
-    "repository": "https://github.com/lauthieb/code-notes",
-    "keywords": [
-      "snippets",
-      "manager",
-      "code",
-      "developers",
-      "vuejs",
-      "vue2"
-    ],
-    "license": "MIT",
-    "screenshots": [
-      {
-        "imageUrl": "https://lauthieb.github.io/code-notes/img/screen.png",
-        "caption": "Code Notes - Home page"
-      }
-    ],
-    "locales": [
-      "en-US",
-      "en-GB"
-    ],
-    "icon": "code-notes-icon.png",
-    "icon32": "code-notes-icon-32.png",
-    "icon64": "code-notes-icon-64.png",
-    "icon128": "code-notes-icon-128.png",
-    "icon256": "code-notes-icon-256.png",
-    "date": "2018-01-30",
-    "iconColors": [
-      "#255469",
-      "#dbd4c4",
-      "#889ca5",
-      "#6b8092",
-      "#8494a4"
-    ],
-    "goodColorOnWhite": "#255469",
-    "goodColorOnBlack": "#DBD4C4",
-    "faintColorOnWhite": "rgba(37, 84, 105, 0.1)"
-  },
-  {
-    "slug": "code-sketch",
-    "name": "Code Sketch",
-    "description": "Codepen-like desktop app that used to demonstrate your code.",
-    "website": "https://code-sketch.com/",
-    "repository": "https://github.com/keelii/code-sketch",
-    "youtube_video_url": "https://www.youtube.com/watch?v=gIxrk8iXACE",
-    "license": "MIT",
-    "keywords": [
-      "code",
-      "playground",
-      "sketch"
-    ],
-    "category": "Developer Tools",
-    "screenshots": [
-      {
-        "imageUrl": "https://code-sketch.com/image/code-sketch-light-theme.png",
-        "caption": "code-sketch-light",
-        "imageLink": "https://code-sketch.com"
-      },
-      {
-        "imageUrl": "https://code-sketch.com/image/code-sketch-dark-theme.png",
-        "caption": "code-sketch-dark",
-        "imageLink": "https://code-sketch.com"
-      },
-      {
-        "imageUrl": "https://code-sketch.com/image/code-sketch-error-log.png",
-        "caption": "code-sketch-log",
-        "imageLink": "https://code-sketch.com"
-      },
-      {
-        "imageUrl": "https://code-sketch.com/image/code-sketch-console-log.png",
-        "caption": "code-sketch-error-log",
-        "imageLink": "https://code-sketch.com"
-      }
-    ],
-    "icon": "code-sketch-icon.png",
-    "icon32": "code-sketch-icon-32.png",
-    "icon64": "code-sketch-icon-64.png",
-    "icon128": "code-sketch-icon-128.png",
-    "icon256": "code-sketch-icon-256.png",
-    "date": "2019-03-30",
-    "iconColors": [
-      "#59bdd2",
-      "#fbfbfb",
-      "#979797",
-      "#ace4ec",
-      "#bababa"
-    ],
-    "goodColorOnWhite": "#20808E",
-    "goodColorOnBlack": "#ACE4EC",
-    "faintColorOnWhite": "rgba(32, 128, 142, 0.1)"
-  },
-  {
-    "slug": "code-story",
-    "name": "Code Story",
-    "description": "Code documentation, redefined.",
-    "website": "http://codestoryapp.com",
-    "keywords": [
-      "code",
-      "documentation"
-    ],
-    "category": "Developer Tools",
-    "icon": "code-story-icon.png",
-    "icon32": "code-story-icon-32.png",
-    "icon64": "code-story-icon-64.png",
-    "icon128": "code-story-icon-128.png",
-    "icon256": "code-story-icon-256.png",
-    "date": "2017-05-17",
-    "iconColors": [
-      "#fbfbfb",
-      "#853631",
-      "#a89c9b",
-      "#858484",
-      "#8c8c8c"
-    ],
-    "goodColorOnWhite": "#853631",
-    "goodColorOnBlack": "#A89C9B",
-    "faintColorOnWhite": "rgba(133, 54, 49, 0.1)"
-  },
-  {
-    "slug": "codepilot-ai",
-    "name": "CodePilot.ai",
-    "description": "Code search tool for software developers",
-    "website": "https://codepilot.ai/",
-    "keywords": [
-      "developer tools",
-      "search",
-      "code search",
-      "code",
-      "documentation",
-      "developer",
-      "tool",
-      "productivity"
-    ],
-    "category": "Developer Tools",
-    "screenshots": [
-      {
-        "imageUrl": "https://codepilot.ai/wp-content/uploads/2018/08/codepilot-movie.mp4"
-      }
-    ],
-    "icon": "codepilot-ai-icon.png",
-    "icon32": "codepilot-ai-icon-32.png",
-    "icon64": "codepilot-ai-icon-64.png",
-    "icon128": "codepilot-ai-icon-128.png",
-    "icon256": "codepilot-ai-icon-256.png",
-    "date": "2018-09-12",
-    "iconColors": [
-      "#e9eced",
-      "#6e6f6f",
-      "#949494",
-      "#b1b8bd",
-      "#999c9c"
-    ],
-    "goodColorOnWhite": "#6E6F6F",
-    "goodColorOnBlack": "#E9ECED",
-    "faintColorOnWhite": "rgba(110, 111, 111, 0.1)"
   },
   {
     "slug": "codex",
@@ -4350,61 +3043,6 @@
     "faintColorOnWhite": "rgba(48, 108, 200, 0.1)"
   },
   {
-    "slug": "converse",
-    "name": "Converse",
-    "description": "Free and open-source XMPP chat client.",
-    "website": "https://conversejs.org/",
-    "repository": "https://github.com/conversejs/converse-desktop",
-    "keywords": [
-      "XMPP",
-      "Open Source",
-      "Cross-Platform",
-      "Jabber",
-      "Messenger",
-      "Team-Chat",
-      "E2EE",
-      "Secure",
-      "Federated",
-      "OMEMO"
-    ],
-    "license": "Mozilla Public License 2.0",
-    "category": "Social Networking",
-    "screenshots": [
-      {
-        "imageUrl": "https://user-images.githubusercontent.com/1450983/89672948-33bc0e80-d8ee-11ea-983f-21bbb707b45d.png",
-        "caption": "Account form"
-      },
-      {
-        "imageUrl": "https://user-images.githubusercontent.com/1450983/89673019-4f271980-d8ee-11ea-8058-0ac6269983aa.png",
-        "caption": "Main window"
-      },
-      {
-        "imageUrl": "https://user-images.githubusercontent.com/1450983/89673064-68c86100-d8ee-11ea-86c4-137e1b95dae7.png",
-        "caption": "Chat"
-      },
-      {
-        "imageUrl": "https://user-images.githubusercontent.com/1450983/89673104-7847aa00-d8ee-11ea-8d30-8f84e7709e7c.png",
-        "caption": "Settings screen"
-      }
-    ],
-    "icon": "converse-icon.png",
-    "icon32": "converse-icon-32.png",
-    "icon64": "converse-icon-64.png",
-    "icon128": "converse-icon-128.png",
-    "icon256": "converse-icon-256.png",
-    "date": "2022-03-25",
-    "iconColors": [
-      "#fafafa",
-      "#040404",
-      "#7c7c7c",
-      "#848484",
-      "#747474"
-    ],
-    "goodColorOnWhite": "#040404",
-    "goodColorOnBlack": "#FAFAFA",
-    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
-  },
-  {
     "slug": "copy-2-online",
     "name": "Copy 2 Online",
     "description": "Cloud-based multiplatform clipboard manager that allows you to access, view, and manage your copy history.",
@@ -4473,186 +3111,6 @@
     "faintColorOnWhite": "rgba(84, 108, 212, 0.1)"
   },
   {
-    "slug": "copy2",
-    "name": "Copy2",
-    "description": "Clipboard manager.",
-    "website": "https://esatech.app/app/Copy2",
-    "category": "Productivity",
-    "keywords": [
-      "copy",
-      "paste",
-      "clipboard",
-      "manager",
-      "history",
-      "helper"
-    ],
-    "license": "Commercial",
-    "icon": "copy2-icon.png",
-    "icon32": "copy2-icon-32.png",
-    "icon64": "copy2-icon-64.png",
-    "icon128": "copy2-icon-128.png",
-    "icon256": "copy2-icon-256.png",
-    "date": "2021-03-11",
-    "iconColors": [
-      "#fbfafa",
-      "#b387b3",
-      "#f3bcbc",
-      "#fbcbdb",
-      "#bcadc9"
-    ],
-    "goodColorOnWhite": "#E21157",
-    "goodColorOnBlack": "#FBCBDB",
-    "faintColorOnWhite": "rgba(226, 17, 87, 0.1)"
-  },
-  {
-    "slug": "corda-node-explorer",
-    "name": "Corda Node Explorer",
-    "description": "Interact with Corda Blockchain Nodes - explore network, vault, and transactions.",
-    "website": "https://docs.corda.net/docs/corda-os/node-explorer.html",
-    "category": "Developer Tools",
-    "repository": "https://github.com/corda/node-explorer",
-    "keywords": [
-      "java",
-      "kotlin",
-      "dlt",
-      "blockchain",
-      "rpc",
-      "corda",
-      "cordapp",
-      "smart-contract",
-      "enterprise",
-      "r3",
-      "network"
-    ],
-    "license": "Apache",
-    "screenshots": [
-      {
-        "imageUrl": "https://docs.corda.net/docs/corda-os/4.5/resources/node-explorer/node-explorer-map.png"
-      },
-      {
-        "imageUrl": "https://docs.corda.net/docs/corda-os/4.5/resources/node-explorer/node-explorer-transactions.png"
-      },
-      {
-        "imageUrl": "https://docs.corda.net/docs/corda-os/4.5/resources/node-explorer/node-explorer-vault.png"
-      }
-    ],
-    "icon": "corda-node-explorer-icon.png",
-    "icon32": "corda-node-explorer-icon-32.png",
-    "icon64": "corda-node-explorer-icon-64.png",
-    "icon128": "corda-node-explorer-icon-128.png",
-    "icon256": "corda-node-explorer-icon-256.png",
-    "date": "2020-07-20",
-    "iconColors": [
-      "#e4241c",
-      "#e8241c",
-      "#e8241c",
-      "#e8241c",
-      "#e8241c"
-    ],
-    "goodColorOnWhite": "#E4241C",
-    "goodColorOnBlack": "#E8241C",
-    "faintColorOnWhite": "rgba(228, 36, 28, 0.1)"
-  },
-  {
-    "slug": "correo",
-    "name": "Correo",
-    "description": "A menubar/taskbar Gmail App for Windows, macOS and Linux.",
-    "repository": "https://github.com/amitmerchant1990/correo",
-    "keywords": [
-      "gmail",
-      "mail",
-      "menubar",
-      "taskbar",
-      "tray",
-      "html",
-      "desktop"
-    ],
-    "category": "Utilities",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png"
-      }
-    ],
-    "icon": "correo-icon.png",
-    "icon32": "correo-icon-32.png",
-    "icon64": "correo-icon-64.png",
-    "icon128": "correo-icon-128.png",
-    "icon256": "correo-icon-256.png",
-    "date": "2016-08-25",
-    "iconColors": [
-      "#eeeded",
-      "#ea4e48",
-      "#e49c9a",
-      "#f58180",
-      "#df7c72"
-    ],
-    "goodColorOnWhite": "#E21412",
-    "goodColorOnBlack": "#F58180",
-    "faintColorOnWhite": "rgba(226, 20, 18, 0.1)"
-  },
-  {
-    "slug": "cortex",
-    "name": "Cortex",
-    "description": "Performance tracking for gamers.",
-    "website": "https://www.crtx.gg",
-    "category": "Games",
-    "keywords": [
-      "game",
-      "tracker",
-      "esport",
-      "performance"
-    ],
-    "icon": "cortex-icon.png",
-    "icon32": "cortex-icon-32.png",
-    "icon64": "cortex-icon-64.png",
-    "icon128": "cortex-icon-128.png",
-    "icon256": "cortex-icon-256.png",
-    "date": "2019-05-29",
-    "iconColors": [
-      "#447ad4",
-      "#4487d7",
-      "#3c6fcc",
-      "#4496dc",
-      "#3c64cc"
-    ],
-    "goodColorOnWhite": "#3C6FCC",
-    "goodColorOnBlack": "#4496DC",
-    "faintColorOnWhite": "rgba(60, 111, 204, 0.1)"
-  },
-  {
-    "slug": "covid-19-cases-overview",
-    "name": "Covid-19 cases overview",
-    "description": "This Web application allow the user to check daily cases and much more information about covid-19.",
-    "category": "News",
-    "repository": "https://github.com/Creator-360/Covid-19-cases-overview",
-    "keywords": [
-      "Covid-19"
-    ],
-    "license": "GPL-3.0 License",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/Creator-360/Covid-19-cases-overview/master/readme%20img/screenshot%204.png",
-        "caption": "Desktop version overview"
-      }
-    ],
-    "icon": "covid-19-cases-overview-icon.png",
-    "icon32": "covid-19-cases-overview-icon-32.png",
-    "icon64": "covid-19-cases-overview-icon-64.png",
-    "icon128": "covid-19-cases-overview-icon-128.png",
-    "icon256": "covid-19-cases-overview-icon-256.png",
-    "date": "2020-11-30",
-    "iconColors": [
-      "#fc4404",
-      "#fc6004",
-      "#fc2a04",
-      "#fc3404",
-      "#fc5404"
-    ],
-    "goodColorOnWhite": "#CC3602",
-    "goodColorOnBlack": "#FC4404",
-    "faintColorOnWhite": "rgba(204, 54, 2, 0.1)"
-  },
-  {
     "slug": "cozy-desktop",
     "name": "Cozy Desktop",
     "description": "File Synchronisation for Cozy Cloud on Desktop and Laptop",
@@ -4681,122 +3139,6 @@
     "goodColorOnWhite": "#1170B9",
     "goodColorOnBlack": "#2C99EC",
     "faintColorOnWhite": "rgba(17, 112, 185, 0.1)"
-  },
-  {
-    "slug": "cromberg",
-    "name": "Cromberg",
-    "description": "Personal finance management application.",
-    "website": "http://cromberg.blweb.ru",
-    "repository": "https://github.com/z17/home-accounting-system",
-    "keywords": [
-      "finance",
-      "accounting",
-      "balance"
-    ],
-    "category": "Finance",
-    "locales": [
-      "en-US",
-      "ru"
-    ],
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/z17/home-accounting-system/dbeaceaeef757247d95954d206ca5d2613716044/server/www/screenshots/income.png",
-        "caption": "Income chart"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/z17/home-accounting-system/dbeaceaeef757247d95954d206ca5d2613716044/server/www/screenshots/balance.png",
-        "caption": "Balance chart"
-      }
-    ],
-    "icon": "cromberg-icon.png",
-    "icon32": "cromberg-icon-32.png",
-    "icon64": "cromberg-icon-64.png",
-    "icon128": "cromberg-icon-128.png",
-    "icon256": "cromberg-icon-256.png",
-    "date": "2017-11-29",
-    "iconColors": [
-      "#73a819",
-      "#f8f9f7",
-      "#aac57c",
-      "#bcdc8c",
-      "#9ccc54"
-    ],
-    "goodColorOnWhite": "#557C12",
-    "goodColorOnBlack": "#73A819",
-    "faintColorOnWhite": "rgba(85, 124, 18, 0.1)"
-  },
-  {
-    "slug": "crossover",
-    "name": "CrossOver",
-    "description": "🎯 A Crosshair Overlay for any game and screen.",
-    "website": "https://lacymorrow.github.io/crossover/",
-    "category": "Utilities",
-    "repository": "https://github.com/lacymorrow/crossover",
-    "keywords": [
-      "crosshair",
-      "overlay",
-      "game-overlay",
-      "game",
-      "sight",
-      "dot",
-      "mark",
-      "center"
-    ],
-    "license": "LGPLv3",
-    "screenshots": [
-      {
-        "imageUrl": "https://github.com/lacymorrow/crossover/raw/master/src/static/demo.png",
-        "caption": "Crossover screenshots (lacymorrow.github.io/CrossOver)",
-        "imageLink": "https://lacymorrow.github.io/crossover/"
-      }
-    ],
-    "icon": "crossover-icon.png",
-    "icon32": "crossover-icon-32.png",
-    "icon64": "crossover-icon-64.png",
-    "icon128": "crossover-icon-128.png",
-    "icon256": "crossover-icon-256.png",
-    "date": "2020-06-24",
-    "iconColors": [
-      "#ef596a",
-      "#faf9f9",
-      "#f7964d",
-      "#ee9998",
-      "#7e7e7f"
-    ],
-    "goodColorOnWhite": "#B85408",
-    "goodColorOnBlack": "#F7964D",
-    "faintColorOnWhite": "rgba(184, 84, 8, 0.1)"
-  },
-  {
-    "slug": "crypter",
-    "name": "Crypter",
-    "description": "Simple, convenient and secure encryption client",
-    "keywords": [
-      "encryption"
-    ],
-    "category": "Utilities",
-    "repository": "https://github.com/HR/Crypter",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/HR/Crypter/master/.github/Welcome_screen.png"
-      }
-    ],
-    "icon": "crypter-icon.png",
-    "icon32": "crypter-icon-32.png",
-    "icon64": "crypter-icon-64.png",
-    "icon128": "crypter-icon-128.png",
-    "icon256": "crypter-icon-256.png",
-    "date": "2016-04-20",
-    "iconColors": [
-      "#f28b47",
-      "#323334",
-      "#f06c43",
-      "#9b5d3c",
-      "#8e543c"
-    ],
-    "goodColorOnWhite": "#9B5D3C",
-    "goodColorOnBlack": "#F28B47",
-    "faintColorOnWhite": "rgba(155, 93, 60, 0.1)"
   },
   {
     "slug": "cryptoarm-gost",
@@ -4920,137 +3262,6 @@
     "goodColorOnWhite": "#24242C",
     "goodColorOnBlack": "#F7F7F8",
     "faintColorOnWhite": "rgba(36, 36, 44, 0.1)"
-  },
-  {
-    "slug": "csv-to-sqlite",
-    "name": "CSV to SQLite",
-    "description": "Convert CSV files to SQLite databases.",
-    "website": "https://github.com/isaiahnields/csv-to-sqlite",
-    "category": "Developer Tools",
-    "keywords": [
-      "sql",
-      "csv",
-      "sqlite",
-      "converter"
-    ],
-    "license": "MIT",
-    "icon": "csv-to-sqlite-icon.png",
-    "icon32": "csv-to-sqlite-icon-32.png",
-    "icon64": "csv-to-sqlite-icon-64.png",
-    "icon128": "csv-to-sqlite-icon-128.png",
-    "icon256": "csv-to-sqlite-icon-256.png",
-    "date": "2018-07-31",
-    "iconColors": [
-      "#04fbdb",
-      "#040606",
-      "#04937d",
-      "#047c64",
-      "#04bc9c"
-    ],
-    "goodColorOnWhite": "#047C64",
-    "goodColorOnBlack": "#04FBDB",
-    "faintColorOnWhite": "rgba(4, 124, 100, 0.1)"
-  },
-  {
-    "slug": "cuba-studio",
-    "name": "CUBA Studio",
-    "description": "Specialized tool for rapid application development",
-    "website": "https://www.cuba-platform.com",
-    "category": "Developer Tools",
-    "keywords": [
-      "java",
-      "enterprise",
-      "full-stack",
-      "rad",
-      "cuba-platform"
-    ],
-    "screenshots": [
-      {
-        "imageUrl": "https://www.cuba-platform.com/discuss/uploads/default/original/2X/c/ca959375555c6b1088d7121710db7130c4f6d5ad.jpg",
-        "caption": "CUBA Studio SE",
-        "imageLink": "https://www.cuba-platform.com/discuss/t/platform-cuba-studio-se-a-desktop-application-based-on-electron/2914"
-      }
-    ],
-    "icon": "cuba-studio-icon.png",
-    "icon32": "cuba-studio-icon-32.png",
-    "icon64": "cuba-studio-icon-64.png",
-    "icon128": "cuba-studio-icon-128.png",
-    "icon256": "cuba-studio-icon-256.png",
-    "date": "2018-01-23",
-    "iconColors": [
-      "#046cac",
-      "#645c5c",
-      "#1c64b0",
-      "#1c64b0",
-      "#1c64b0"
-    ],
-    "goodColorOnWhite": "#046CAC",
-    "goodColorOnBlack": "#0583D0",
-    "faintColorOnWhite": "rgba(4, 108, 172, 0.1)"
-  },
-  {
-    "slug": "cumulus",
-    "name": "Cumulus",
-    "description": "A SoundCloud player that lives in your menubar",
-    "website": "https://gillesdemey.github.io/Cumulus/",
-    "repository": "https://github.com/gillesdemey/Cumulus",
-    "keywords": [
-      "soundcloud",
-      "music",
-      "player"
-    ],
-    "license": "MIT",
-    "category": "Music",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/gillesdemey/Cumulus/master/assets/cumulus_app.png"
-      }
-    ],
-    "icon": "cumulus-icon.png",
-    "icon32": "cumulus-icon-32.png",
-    "icon64": "cumulus-icon-64.png",
-    "icon128": "cumulus-icon-128.png",
-    "icon256": "cumulus-icon-256.png",
-    "date": "2016-12-27",
-    "iconColors": [
-      "#fa3d09",
-      "#fbfafa",
-      "#e8885f",
-      "#f5a57e",
-      "#fca48c"
-    ],
-    "goodColorOnWhite": "#CF3004",
-    "goodColorOnBlack": "#FA3D09",
-    "faintColorOnWhite": "rgba(207, 48, 4, 0.1)"
-  },
-  {
-    "slug": "cyapass",
-    "name": "CYaPass",
-    "description": "Draw your password. Never type a password again.",
-    "category": "Utilities",
-    "repository": "https://github.com/raddevus/CYaPass-Electron",
-    "keywords": [
-      "\"C'YaPass\"",
-      "passwords",
-      "password",
-      "cyapass"
-    ],
-    "icon": "cyapass-icon.png",
-    "icon32": "cyapass-icon-32.png",
-    "icon64": "cyapass-icon-64.png",
-    "icon128": "cyapass-icon-128.png",
-    "icon256": "cyapass-icon-256.png",
-    "date": "2020-11-16",
-    "iconColors": [
-      "#1607e7",
-      "#f0f0f1",
-      "#bc2326",
-      "#848484",
-      "#bc7c7c"
-    ],
-    "goodColorOnWhite": "#1607E7",
-    "goodColorOnBlack": "#BC7C7C",
-    "faintColorOnWhite": "rgba(22, 7, 231, 0.1)"
   },
   {
     "slug": "cyberx",
@@ -5179,40 +3390,6 @@
     "goodColorOnWhite": "#3F7972",
     "goodColorOnBlack": "#4D958C",
     "faintColorOnWhite": "rgba(63, 121, 114, 0.1)"
-  },
-  {
-    "slug": "cypress",
-    "name": "Cypress",
-    "description": "Automated test runner for web applications",
-    "website": "https://www.cypress.io/",
-    "repository": "https://github.com/cypress-io/cypress",
-    "keywords": [
-      "testing",
-      "developer tools",
-      "web development"
-    ],
-    "category": "Developer Tools",
-    "screenshots": [
-      {
-        "imageUrl": "https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667"
-      }
-    ],
-    "icon": "cypress-icon.png",
-    "icon32": "cypress-icon-32.png",
-    "icon64": "cypress-icon-64.png",
-    "icon128": "cypress-icon-128.png",
-    "icon256": "cypress-icon-256.png",
-    "date": "2016-06-03",
-    "iconColors": [
-      "#3a3a3a",
-      "#f7f7f7",
-      "#9a9c9a",
-      "#a4a4a4",
-      "#949494"
-    ],
-    "goodColorOnWhite": "#3A3A3A",
-    "goodColorOnBlack": "#9A9C9A",
-    "faintColorOnWhite": "rgba(58, 58, 58, 0.1)"
   },
   {
     "slug": "danger-crew",
@@ -6044,38 +4221,6 @@
     "goodColorOnWhite": "#135A44",
     "goodColorOnBlack": "#25C67A",
     "faintColorOnWhite": "rgba(19, 90, 68, 0.1)"
-  },
-  {
-    "slug": "devdocs-app",
-    "name": "devdocs-app",
-    "description": "A full-featured desktop app for DevDocs.io.",
-    "repository": "https://github.com/egoist/devdocs-app",
-    "keywords": [
-      "devdocs"
-    ],
-    "license": "MIT",
-    "category": "Developer Tools",
-    "screenshots": [
-      {
-        "imageUrl": "https://user-images.githubusercontent.com/8784712/27121730-11676ba8-511b-11e7-8c01-00444ee8501a.png"
-      }
-    ],
-    "icon": "devdocs-app-icon.png",
-    "icon32": "devdocs-app-icon-32.png",
-    "icon64": "devdocs-app-icon-64.png",
-    "icon128": "devdocs-app-icon-128.png",
-    "icon256": "devdocs-app-icon-256.png",
-    "date": "2017-02-19",
-    "iconColors": [
-      "#edcb1c",
-      "#34332f",
-      "#e6dea4",
-      "#8e7d30",
-      "#766404"
-    ],
-    "goodColorOnWhite": "#766404",
-    "goodColorOnBlack": "#EDCB1C",
-    "faintColorOnWhite": "rgba(118, 100, 4, 0.1)"
   },
   {
     "slug": "devhub",
@@ -9646,34 +7791,6 @@
     "faintColorOnWhite": "rgba(2, 107, 204, 0.1)"
   },
   {
-    "slug": "gitblade",
-    "name": "GitBlade",
-    "description": "A simple and elegant GUI client for Linux, Mac and Windows",
-    "website": "https://gitblade.com/",
-    "keywords": [
-      "git",
-      "programming",
-      "software"
-    ],
-    "category": "Developer Tools",
-    "icon": "gitblade-icon.png",
-    "icon32": "gitblade-icon-32.png",
-    "icon64": "gitblade-icon-64.png",
-    "icon128": "gitblade-icon-128.png",
-    "icon256": "gitblade-icon-256.png",
-    "date": "2018-08-10",
-    "iconColors": [
-      "#e4c48c",
-      "#e8c48c",
-      "#e8c48c",
-      "#e8c48c",
-      "#e8c48c"
-    ],
-    "goodColorOnWhite": "#95661E",
-    "goodColorOnBlack": "#E8C48C",
-    "faintColorOnWhite": "rgba(149, 102, 30, 0.1)"
-  },
-  {
     "slug": "gitbook",
     "name": "GitBook",
     "description": "Editor for a modern publishing toolchain based on Git",
@@ -9866,37 +7983,6 @@
     "goodColorOnWhite": "#141725",
     "goodColorOnBlack": "#148F84",
     "faintColorOnWhite": "rgba(20, 23, 37, 0.1)"
-  },
-  {
-    "slug": "gitmoji",
-    "name": "gitmoji",
-    "description": "An emoji guide for your commit messages",
-    "website": "https://gitmoji.carloscuesta.me/",
-    "keywords": [
-      "git",
-      "emoji",
-      "developer tools",
-      "mac"
-    ],
-    "license": "GPL-v3",
-    "category": "Developer Tools",
-    "repository": "https://github.com/carloscuesta/gitmoji",
-    "icon": "gitmoji-icon.png",
-    "icon32": "gitmoji-icon-32.png",
-    "icon64": "gitmoji-icon-64.png",
-    "icon128": "gitmoji-icon-128.png",
-    "icon256": "gitmoji-icon-256.png",
-    "date": "2017-02-28",
-    "iconColors": [
-      "#fbdb64",
-      "#a85d4b",
-      "#fbfbfb",
-      "#f7e59d",
-      "#9c947c"
-    ],
-    "goodColorOnWhite": "#A85D4B",
-    "goodColorOnBlack": "#FBDB64",
-    "faintColorOnWhite": "rgba(168, 93, 75, 0.1)"
   },
   {
     "slug": "gitscout",
@@ -27316,42 +25402,6 @@
     "faintColorOnWhite": "rgba(129, 100, 129, 0.1)"
   },
   {
-    "slug": "unofficial-riot-games-launcher",
-    "name": "Unofficial Riot Games Launcher",
-    "description": "Custom Launcher for League of Legends, Legends of Runeterra and VALORANT.",
-    "website": "https://www.softpedia.com/get/Gaming-Related/Unofficial-Riot-Games-Launcher.shtml",
-    "repository": "https://github.com/Eliosth/UNOFFICIAL-Riot-Games-Launcher",
-    "youtube_video_url": "https://www.youtube.com/watch?v=vJ7sgziaUUg",
-    "category": "Games",
-    "keywords": [
-      "League of Legends",
-      "Legends of Runeterra",
-      "Valorant",
-      "Game Launcher"
-    ],
-    "screenshots": [
-      {
-        "imageUrl": "https://camo.githubusercontent.com/1bd49f7d5bfb00418e3c6b2e3483638091762ff68e8e2c83485ef03a444f34b5/68747470733a2f2f692e696d6775722e636f6d2f7352326a5a57502e6a7067"
-      }
-    ],
-    "icon": "unofficial-riot-games-launcher-icon.png",
-    "icon32": "unofficial-riot-games-launcher-icon-32.png",
-    "icon64": "unofficial-riot-games-launcher-icon-64.png",
-    "icon128": "unofficial-riot-games-launcher-icon-128.png",
-    "icon256": "unofficial-riot-games-launcher-icon-256.png",
-    "date": "2021-04-03",
-    "iconColors": [
-      "#040404",
-      "#faf2f2",
-      "#8c8c8c",
-      "#787474",
-      "#7c7c7c"
-    ],
-    "goodColorOnWhite": "#787474",
-    "goodColorOnBlack": "#FAF2F2",
-    "faintColorOnWhite": "rgba(120, 116, 116, 0.1)"
-  },
-  {
     "slug": "unofficial-zalo",
     "name": "Unofficial Zalo",
     "description": "The unofficial Zalo messaging app",
@@ -29398,20 +27448,20 @@
     "faintColorOnWhite": "rgba(21, 21, 21, 0.1)"
   },
   {
-    "slug": "wordpress-com",
-    "name": "WordPress.com",
-    "description": "A desktop app for WordPress",
+    "slug": "wordpress",
+    "name": "WordPress",
+    "description": "A desktop app that gives WordPress a permanent home in your dock.",
     "website": "https://desktop.wordpress.com",
     "keywords": [
       "Productivity"
     ],
     "category": "Productivity",
-    "icon": "wordpress-com-icon.png",
-    "icon32": "wordpress-com-icon-32.png",
-    "icon64": "wordpress-com-icon-64.png",
-    "icon128": "wordpress-com-icon-128.png",
-    "icon256": "wordpress-com-icon-256.png",
-    "date": "2015-12-17",
+    "icon": "wordpress-icon.png",
+    "icon32": "wordpress-icon-32.png",
+    "icon64": "wordpress-icon-64.png",
+    "icon128": "wordpress-icon-128.png",
+    "icon256": "wordpress-icon-256.png",
+    "date": "2022-08-10",
     "iconColors": [
       "#05a3d4",
       "#f3f9fa",
@@ -29834,39 +27884,6 @@
       "#345c8c"
     ],
     "faintColorOnWhite": "rgba(52, 92, 140, 0.1)"
-  },
-  {
-    "slug": "yeoman",
-    "name": "Yeoman",
-    "description": "Scaffolding tool for webapps",
-    "keywords": [
-      "web development",
-      "scaffolding",
-      "productivity"
-    ],
-    "category": "Productivity",
-    "repository": "https://github.com/yeoman/yeoman-app",
-    "screenshots": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/yeoman/yeoman-app/master/resources/screenshot.png"
-      }
-    ],
-    "icon": "yeoman-icon.png",
-    "icon32": "yeoman-icon-32.png",
-    "icon64": "yeoman-icon-64.png",
-    "icon128": "yeoman-icon-128.png",
-    "icon256": "yeoman-icon-256.png",
-    "date": "2015-07-27",
-    "iconColors": [
-      "#1c0e0b",
-      "#edbf79",
-      "#da1e2c",
-      "#807474",
-      "#a4845c"
-    ],
-    "goodColorOnWhite": "#DA1E2C",
-    "goodColorOnBlack": "#EDBF79",
-    "faintColorOnWhite": "rgba(218, 30, 44, 0.1)"
   },
   {
     "slug": "yet-another-gitbook-reader",
