@@ -27888,7 +27888,7 @@
   {
     "slug": "yet-another-gitbook-reader",
     "name": "Yet-Another-Gitbook-Reader",
-    "description": "YAGR is yet another gitbook reader built upon `nodegit`/`typeorm`/`docsify`/`@swimlane/docpa-core`, multilingual support is available.",
+    "description": "YAGR is yet another GitBook reader for desktop.",
     "repository": "https://github.com/gnu4cn/gitbook-reader-app",
     "category": "Education",
     "keywords": [
