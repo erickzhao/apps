@@ -2,7 +2,7 @@
 .env
 .npmrc
 *-256.png
-*-128.png
+# *-128.png
 *-32.png
 *-64.png
 node_modules
