@@ -2576,19 +2576,19 @@
     }
   },
   "flat": {
-    "faintColorOnWhite": "rgba(4, 97, 239, 0.1)",
-    "goodColorOnBlack": "#5396FC",
-    "goodColorOnWhite": "#0461EF",
+    "faintColorOnWhite": "rgba(4, 99, 244, 0.1)",
+    "goodColorOnBlack": "#3785FC",
+    "goodColorOnWhite": "#0463F4",
     "palette": [
-      "#fbfbfc",
-      "#5396fc",
-      "#d3e3fc",
-      "#afccfc",
-      "#9cbcfc"
+      "#3785fc",
+      "#92bcfc",
+      "#5a98fc",
+      "#68a4fc",
+      "#74a4fc"
     ],
     "source": {
       "path": "apps/flat/flat-icon.png",
-      "revHash": "9d43f67b33"
+      "revHash": "f92b322c30"
     }
   },
   "flawesome": {
@@ -4832,19 +4832,19 @@
     }
   },
   "loom": {
-    "faintColorOnWhite": "rgba(229, 0, 11, 0.1)",
-    "goodColorOnBlack": "#FF5C64",
-    "goodColorOnWhite": "#E5000B",
+    "faintColorOnWhite": "rgba(100, 92, 244, 0.1)",
+    "goodColorOnBlack": "#837CF6",
+    "goodColorOnWhite": "#645CF4",
     "palette": [
-      "#fc5c64",
-      "#ff5c64",
-      "#ff5c64",
-      "#ff5c64",
-      "#ff5c64"
+      "#645cf4",
+      "#685cf4",
+      "#685cf4",
+      "#685cf4",
+      "#685cf4"
     ],
     "source": {
       "path": "apps/loom/loom-icon.png",
-      "revHash": "323ea4ebe2"
+      "revHash": "11b7bbca75"
     }
   },
   "loop-team": {
@@ -6148,15 +6148,15 @@
     "goodColorOnBlack": "#FBFBFB",
     "goodColorOnWhite": "#040404",
     "palette": [
-      "#fbfbfb",
       "#040404",
-      "#7c7c7c",
+      "#fbfbfb",
+      "#848484",
       "#747474",
-      "#848484"
+      "#7c7c7c"
     ],
     "source": {
       "path": "apps/notion/notion-icon.png",
-      "revHash": "07a3a28e90"
+      "revHash": "7c71d08772"
     }
   },
   "nteract": {

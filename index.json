@@ -6624,15 +6624,15 @@
     "icon256": "flat-icon-256.png",
     "date": "2021-11-20",
     "iconColors": [
-      "#fbfbfc",
-      "#5396fc",
-      "#d3e3fc",
-      "#afccfc",
-      "#9cbcfc"
+      "#3785fc",
+      "#92bcfc",
+      "#5a98fc",
+      "#68a4fc",
+      "#74a4fc"
     ],
-    "goodColorOnWhite": "#0461EF",
-    "goodColorOnBlack": "#5396FC",
-    "faintColorOnWhite": "rgba(4, 97, 239, 0.1)"
+    "goodColorOnWhite": "#0463F4",
+    "goodColorOnBlack": "#3785FC",
+    "faintColorOnWhite": "rgba(4, 99, 244, 0.1)"
   },
   {
     "slug": "flawesome",
@@ -11774,15 +11774,15 @@
     "icon256": "loom-icon-256.png",
     "date": "2019-10-23",
     "iconColors": [
-      "#fc5c64",
-      "#ff5c64",
-      "#ff5c64",
-      "#ff5c64",
-      "#ff5c64"
+      "#645cf4",
+      "#685cf4",
+      "#685cf4",
+      "#685cf4",
+      "#685cf4"
     ],
-    "goodColorOnWhite": "#E5000B",
-    "goodColorOnBlack": "#FF5C64",
-    "faintColorOnWhite": "rgba(229, 0, 11, 0.1)"
+    "goodColorOnWhite": "#645CF4",
+    "goodColorOnBlack": "#837CF6",
+    "faintColorOnWhite": "rgba(100, 92, 244, 0.1)"
   },
   {
     "slug": "loop-team",
@@ -15048,11 +15048,11 @@
     "icon256": "notion-icon-256.png",
     "date": "2018-06-18",
     "iconColors": [
-      "#fbfbfb",
       "#040404",
-      "#7c7c7c",
+      "#fbfbfb",
+      "#848484",
       "#747474",
-      "#848484"
+      "#7c7c7c"
     ],
     "goodColorOnWhite": "#040404",
     "goodColorOnBlack": "#FBFBFB",
