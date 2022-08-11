@@ -6340,15 +6340,15 @@
     "icon256": "figma-icon-256.png",
     "date": "2017-05-05",
     "iconColors": [
-      "#db5e7d",
-      "#040404",
-      "#14c2be",
-      "#09af70",
-      "#442156"
+      "#f44c1c",
+      "#a45cfc",
+      "#0ccc84",
+      "#1cbcfc",
+      "#fc7464"
     ],
-    "goodColorOnWhite": "#442156",
-    "goodColorOnBlack": "#09AF70",
-    "faintColorOnWhite": "rgba(68, 33, 86, 0.1)"
+    "goodColorOnWhite": "#0275A3",
+    "goodColorOnBlack": "#1CBCFC",
+    "faintColorOnWhite": "rgba(2, 117, 163, 0.1)"
   },
   {
     "slug": "fileside",

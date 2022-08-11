@@ -2480,19 +2480,19 @@
     }
   },
   "figma": {
-    "faintColorOnWhite": "rgba(68, 33, 86, 0.1)",
-    "goodColorOnBlack": "#09AF70",
-    "goodColorOnWhite": "#442156",
+    "faintColorOnWhite": "rgba(2, 117, 163, 0.1)",
+    "goodColorOnBlack": "#1CBCFC",
+    "goodColorOnWhite": "#0275A3",
     "palette": [
-      "#db5e7d",
-      "#040404",
-      "#14c2be",
-      "#09af70",
-      "#442156"
+      "#f44c1c",
+      "#a45cfc",
+      "#0ccc84",
+      "#1cbcfc",
+      "#fc7464"
     ],
     "source": {
       "path": "apps/figma/figma-icon.png",
-      "revHash": "57a1c14656"
+      "revHash": "e592821f0f"
     }
   },
   "fileside": {
