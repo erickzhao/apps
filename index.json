@@ -32,6 +32,34 @@
     "faintColorOnWhite": "rgba(20, 83, 139, 0.1)"
   },
   {
+    "slug": "1password",
+    "name": "1Password",
+    "description": "1Password is the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click.",
+    "website": "https://www.1password.com",
+    "keywords": [
+      "Password manager",
+      "Security",
+      "Privacy"
+    ],
+    "category": "Utilities",
+    "icon": "1password-icon.png",
+    "icon32": "1password-icon-32.png",
+    "icon64": "1password-icon-64.png",
+    "icon128": "1password-icon-128.png",
+    "icon256": "1password-icon-256.png",
+    "date": "2022-08-15",
+    "iconColors": [
+      "#1282c7",
+      "#f1f3f5",
+      "#272b2e",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "goodColorOnWhite": "#272B2E",
+    "goodColorOnBlack": "#1282C7",
+    "faintColorOnWhite": "rgba(39, 43, 46, 0.1)"
+  },
+  {
     "slug": "5eclient",
     "name": "5EClient",
     "description": "5EPlay CSGO Client",
@@ -643,6 +671,33 @@
     "goodColorOnWhite": "#585FFC",
     "goodColorOnBlack": "#147DFC",
     "faintColorOnWhite": "rgba(88, 95, 252, 0.1)"
+  },
+  {
+    "slug": "asana",
+    "name": "Asana",
+    "description": "Work anytime, anywhere with Asana. Keep remote and distributed teams, and your entire organization, focused on their goals, projects, and tasks with Asana.",
+    "website": "https://asana.com/",
+    "keywords": [
+      "project management",
+      "collaboration"
+    ],
+    "category": "Productivity",
+    "icon": "asana-icon.png",
+    "icon32": "asana-icon-32.png",
+    "icon64": "asana-icon-64.png",
+    "icon128": "asana-icon-128.png",
+    "icon256": "asana-icon-256.png",
+    "date": "2022-08-15",
+    "iconColors": [
+      "#f46c6c",
+      "#ec6c6c",
+      "#0c0c14",
+      "#483c40",
+      "#0c4040"
+    ],
+    "goodColorOnWhite": "#0C4040",
+    "goodColorOnBlack": "#F46C6C",
+    "faintColorOnWhite": "rgba(12, 64, 64, 0.1)"
   },
   {
     "slug": "assessment-disaggregation",
@@ -15223,6 +15278,34 @@
     "faintColorOnWhite": "rgba(35, 78, 101, 0.1)"
   },
   {
+    "slug": "obsidian",
+    "name": "Obsidian",
+    "description": "A knowledge base that works on local Markdown files.",
+    "website": "https://obsidian.md/",
+    "keywords": [
+      "markdown",
+      "productivity",
+      "knowledge base"
+    ],
+    "category": "Productivity",
+    "icon": "obsidian-icon.png",
+    "icon32": "obsidian-icon-32.png",
+    "icon64": "obsidian-icon-64.png",
+    "icon128": "obsidian-icon-128.png",
+    "icon256": "obsidian-icon-256.png",
+    "date": "2022-08-15",
+    "iconColors": [
+      "#7d68d6",
+      "#432e9b",
+      "#8c7cdd",
+      "#ab9bf3",
+      "#5442ae"
+    ],
+    "goodColorOnWhite": "#432E9B",
+    "goodColorOnBlack": "#AB9BF3",
+    "faintColorOnWhite": "rgba(67, 46, 155, 0.1)"
+  },
+  {
     "slug": "octopi-init",
     "name": "octopi-init",
     "description": "A Node.js & Electron application for easily configuring your freshly-imaged OctoPi microSD adapter",
@@ -21317,6 +21400,33 @@
     "faintColorOnWhite": "rgba(132, 20, 68, 0.1)"
   },
   {
+    "slug": "splice",
+    "name": "Splice",
+    "description": "Splice is the leading platform for music production offering access to millions of the best royalty-free samples, loops, and presets; Rent-to-Own plugins & DAWs.",
+    "website": "https://splice.com/",
+    "keywords": [
+      "music",
+      "audio"
+    ],
+    "category": "Music",
+    "icon": "splice-icon.png",
+    "icon32": "splice-icon-32.png",
+    "icon64": "splice-icon-64.png",
+    "icon128": "splice-icon-128.png",
+    "icon256": "splice-icon-256.png",
+    "date": "2022-08-15",
+    "iconColors": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "goodColorOnWhite": "#080404",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
+  },
+  {
     "slug": "spofly",
     "category": "Music",
     "description": "Desktop app to find lyrics of currently playing song on spotify.",
@@ -24517,6 +24627,34 @@
     "goodColorOnWhite": "#397A3D",
     "goodColorOnBlack": "#46954B",
     "faintColorOnWhite": "rgba(57, 122, 61, 0.1)"
+  },
+  {
+    "slug": "trello",
+    "name": "Trello",
+    "description": "Trello is the ultimate project management tool. Start up a board in seconds, automate tedious tasks, and collaborate anywhere, even on mobile.",
+    "website": "https://trello.com",
+    "keywords": [
+      "project management",
+      "tasks",
+      "kanban"
+    ],
+    "category": "Productivity",
+    "icon": "trello-icon.png",
+    "icon32": "trello-icon-32.png",
+    "icon64": "trello-icon-64.png",
+    "icon128": "trello-icon-128.png",
+    "icon256": "trello-icon-256.png",
+    "date": "2022-08-15",
+    "iconColors": [
+      "#085cd6",
+      "#227ff9",
+      "#146de7",
+      "#1c74ec",
+      "#1c74f4"
+    ],
+    "goodColorOnWhite": "#085CD6",
+    "goodColorOnBlack": "#227FF9",
+    "faintColorOnWhite": "rgba(8, 92, 214, 0.1)"
   },
   {
     "slug": "trico",

@@ -15,6 +15,22 @@
       "revHash": "d08238862f"
     }
   },
+  "1password": {
+    "faintColorOnWhite": "rgba(39, 43, 46, 0.1)",
+    "goodColorOnBlack": "#1282C7",
+    "goodColorOnWhite": "#272B2E",
+    "palette": [
+      "#1282c7",
+      "#f1f3f5",
+      "#272b2e",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/1password/1password-icon.png",
+      "revHash": "79952960f9"
+    }
+  },
   "5eclient": {
     "faintColorOnWhite": "rgba(129, 104, 71, 0.1)",
     "goodColorOnBlack": "#C49F6F",
@@ -253,6 +269,22 @@
     "source": {
       "path": "apps/arena/arena-icon.png",
       "revHash": "5ec86ba2ce"
+    }
+  },
+  "asana": {
+    "faintColorOnWhite": "rgba(12, 64, 64, 0.1)",
+    "goodColorOnBlack": "#F46C6C",
+    "goodColorOnWhite": "#0C4040",
+    "palette": [
+      "#f46c6c",
+      "#ec6c6c",
+      "#0c0c14",
+      "#483c40",
+      "#0c4040"
+    ],
+    "source": {
+      "path": "apps/asana/asana-icon.png",
+      "revHash": "f2b9950730"
     }
   },
   "assessment-disaggregation": {
@@ -6239,6 +6271,22 @@
       "revHash": "42ec22891e"
     }
   },
+  "obsidian": {
+    "faintColorOnWhite": "rgba(67, 46, 155, 0.1)",
+    "goodColorOnBlack": "#AB9BF3",
+    "goodColorOnWhite": "#432E9B",
+    "palette": [
+      "#7d68d6",
+      "#432e9b",
+      "#8c7cdd",
+      "#ab9bf3",
+      "#5442ae"
+    ],
+    "source": {
+      "path": "apps/obsidian/obsidian-icon.png",
+      "revHash": "e7ad77c0fd"
+    }
+  },
   "octopi-init": {
     "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
     "goodColorOnBlack": "#FFF",
@@ -8831,6 +8879,22 @@
       "revHash": "c29e364a95"
     }
   },
+  "splice": {
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#080404",
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "source": {
+      "path": "apps/splice/splice-icon.png",
+      "revHash": "a58abf6893"
+    }
+  },
   "spofly": {
     "faintColorOnWhite": "rgba(36, 30, 36, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
@@ -10189,6 +10253,22 @@
     "source": {
       "path": "apps/translatium/translatium-icon.png",
       "revHash": "cd5b49a651"
+    }
+  },
+  "trello": {
+    "faintColorOnWhite": "rgba(8, 92, 214, 0.1)",
+    "goodColorOnBlack": "#227FF9",
+    "goodColorOnWhite": "#085CD6",
+    "palette": [
+      "#085cd6",
+      "#227ff9",
+      "#146de7",
+      "#1c74ec",
+      "#1c74f4"
+    ],
+    "source": {
+      "path": "apps/trello/trello-icon.png",
+      "revHash": "c58e11193c"
     }
   },
   "trico": {
