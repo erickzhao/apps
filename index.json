@@ -4454,7 +4454,7 @@
   {
     "slug": "discord",
     "name": "Discord",
-    "description": "Imagine a place",
+    "description": "Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.",
     "website": "https://discord.com/",
     "keywords": [
       "chat"
@@ -6374,7 +6374,7 @@
   {
     "slug": "figma",
     "name": "Figma",
-    "description": "The collaborative interface design tool.",
+    "description": "Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.",
     "website": "https://www.figma.com/",
     "homebrewCaskName": "figma",
     "keywords": [
@@ -9132,9 +9132,9 @@
   {
     "slug": "hyper",
     "name": "Hyper",
-    "description": "HTML/JS/CSS Terminal",
+    "description": "A terminal built on web technologies",
     "website": "https://hyper.is",
-    "repository": "https://github.com/zeit/hyper",
+    "repository": "https://github.com/vercel/hyper",
     "homebrewCaskName": "hyper",
     "keywords": [
       "terminal",
@@ -11806,7 +11806,7 @@
   {
     "slug": "loom",
     "name": "Loom",
-    "description": "Instantly shareable screen and camera recordings.",
+    "description": "Record your screen, share your thoughts, and get things done faster with async video.",
     "website": "https://www.loom.com",
     "category": "Developer Tools",
     "keywords": [
@@ -17083,7 +17083,7 @@
   {
     "slug": "postman",
     "name": "Postman",
-    "description": "Build, test and document your APIs",
+    "description": "Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.",
     "website": "https://www.getpostman.com/",
     "keywords": [
       "developer"
@@ -20087,7 +20087,7 @@
   {
     "slug": "signal",
     "name": "Signal",
-    "description": "Private Messenger",
+    "description": "Say \"hello\" to a different messaging experience. An unexpected focus on privacy, combined with all of the features you expect.",
     "website": "https://signal.org",
     "repository": "https://github.com/signalapp/Signal-Desktop",
     "keywords": [
@@ -20423,7 +20423,7 @@
   {
     "slug": "skype",
     "name": "Skype",
-    "description": "Free IM & video calls",
+    "description": "Keep in touch with free video chat, messaging & affordable international calls.",
     "website": "https://skype.com",
     "keywords": [
       "free calls",
@@ -20456,7 +20456,7 @@
   {
     "slug": "slack",
     "name": "Slack",
-    "description": "A messaging app for teams",
+    "description": "Slack is a new way to communicate with your team. It’s faster, better organized, and more secure than email.",
     "website": "https://slack.com",
     "homebrewCaskName": "slack",
     "keywords": [
@@ -20468,7 +20468,7 @@
       "phone",
       "community"
     ],
-    "category": "Social Networking",
+    "category": "Business",
     "icon": "slack-icon.png",
     "icon32": "slack-icon-32.png",
     "icon64": "slack-icon-64.png",
@@ -23856,7 +23856,7 @@
   {
     "slug": "tidal",
     "name": "TIDAL",
-    "description": "Music streaming service",
+    "description": "TIDAL is the first global music streaming service with high fidelity sound, hi-def video quality, along with expertly curated playlists and original content — making it a trusted source for music and culture.",
     "website": "https://www.tidal.com",
     "keywords": [
       "music",
@@ -25150,7 +25150,7 @@
   {
     "slug": "twitch",
     "name": "Twitch",
-    "description": "Fast and free communication for gamers",
+    "description": "Twitch is an interactive livestreaming service for content spanning gaming, entertainment, sports, music, and more. There’s something for everyone on Twitch.",
     "website": "https://app.twitch.tv",
     "keywords": [
       "games"
@@ -27317,7 +27317,7 @@
   {
     "slug": "whatsapp",
     "name": "WhatsApp",
-    "description": "Free IM, voice & video calls",
+    "description": "WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.",
     "website": "https://www.whatsapp.com",
     "keywords": [
       "free calls",
