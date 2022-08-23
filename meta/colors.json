@@ -143,6 +143,22 @@
       "revHash": "85d6e0f820"
     }
   },
+  "agora-flat": {
+    "faintColorOnWhite": "rgba(4, 99, 244, 0.1)",
+    "goodColorOnBlack": "#3785FC",
+    "goodColorOnWhite": "#0463F4",
+    "palette": [
+      "#3785fc",
+      "#93bcfc",
+      "#5a99fc",
+      "#68a4fc",
+      "#74a4fc"
+    ],
+    "source": {
+      "path": "apps/agora-flat/agora-flat-icon.png",
+      "revHash": "115dddb102"
+    }
+  },
   "aipo-com": {
     "faintColorOnWhite": "rgba(168, 104, 2, 0.1)",
     "goodColorOnBlack": "#FC9D07",
@@ -2605,22 +2621,6 @@
     "source": {
       "path": "apps/fishing-funds/fishing-funds-icon.png",
       "revHash": "37bbe2b905"
-    }
-  },
-  "flat": {
-    "faintColorOnWhite": "rgba(4, 99, 244, 0.1)",
-    "goodColorOnBlack": "#3785FC",
-    "goodColorOnWhite": "#0463F4",
-    "palette": [
-      "#3785fc",
-      "#93bcfc",
-      "#5a99fc",
-      "#68a4fc",
-      "#74a4fc"
-    ],
-    "source": {
-      "path": "apps/flat/flat-icon.png",
-      "revHash": "115dddb102"
     }
   },
   "flawesome": {
