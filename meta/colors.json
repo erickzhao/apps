@@ -6351,6 +6351,22 @@
       "revHash": "6e90c96f32"
     }
   },
+  "oomol-studio": {
+    "faintColorOnWhite": "rgba(67, 70, 113, 0.1)",
+    "goodColorOnBlack": "#9C9CBC",
+    "goodColorOnWhite": "#434671",
+    "palette": [
+      "#434671",
+      "#e5e5e6",
+      "#b4b4b4",
+      "#a8aab4",
+      "#9c9cbc"
+    ],
+    "source": {
+      "path": "apps/oomol-studio/oomol-studio-icon.png",
+      "revHash": "549148f15c"
+    }
+  },
   "open-log-viewer": {
     "faintColorOnWhite": "rgba(6, 6, 6, 0.1)",
     "goodColorOnBlack": "#FBFBFB",

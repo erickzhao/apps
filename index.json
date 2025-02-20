@@ -15444,6 +15444,61 @@
     "faintColorOnWhite": "rgba(135, 83, 146, 0.1)"
   },
   {
+    "slug": "oomol-studio",
+    "name": "OOMOL Studio",
+    "description": "Makes it easy to connect code snippets and API services through intuitive visual interactions.",
+    "website": "https://oomol.com/",
+    "keywords": [
+      "developer",
+      "developer tools",
+      "workflow",
+      "ide",
+      "editor"
+    ],
+    "category": "Utilities",
+    "locales": [
+      "en-US",
+      "zh-CN"
+    ],
+    "screenshots": [
+      {
+        "imageUrl": "https://oomol.com/img/first-screen.png",
+        "caption": "First Screen"
+      },
+      {
+        "imageUrl": "https://oomol.com/img/cases-1.png",
+        "caption": "Cases 1"
+      },
+      {
+        "imageUrl": "https://oomol.com/img/cases-2.png",
+        "caption": "Cases 2"
+      },
+      {
+        "imageUrl": "https://oomol.com/img/cases-2.png",
+        "caption": "Cases 2"
+      },
+      {
+        "imageUrl": "https://oomol.com/img/superiority-3.png"
+      }
+    ],
+    "icon": "oomol-studio-icon.png",
+    "icon32": "oomol-studio-icon-32.png",
+    "icon64": "oomol-studio-icon-64.png",
+    "icon128": "oomol-studio-icon-128.png",
+    "icon256": "oomol-studio-icon-256.png",
+    "date": "2025-02-19",
+    "iconColors": [
+      "#434671",
+      "#e5e5e6",
+      "#b4b4b4",
+      "#a8aab4",
+      "#9c9cbc"
+    ],
+    "goodColorOnWhite": "#434671",
+    "goodColorOnBlack": "#9C9CBC",
+    "faintColorOnWhite": "rgba(67, 70, 113, 0.1)"
+  },
+  {
     "slug": "open-log-viewer",
     "name": "Open Log Viewer",
     "description": "A multi-platform log viewer built with Electron and styled with Material Design",

@@ -1,0 +1,25 @@
+name: OOMOL Studio
+description:
+  'Makes it easy to connect code snippets and API services through
+  intuitive visual interactions.'
+website: 'https://oomol.com/'
+keywords:
+  - developer
+  - developer tools
+  - workflow
+  - ide
+  - editor
+category: Utilities
+locales:
+  - en-US
+  - zh-CN
+screenshots:
+  - imageUrl: 'https://oomol.com/img/first-screen.png'
+    caption: 'First Screen'
+  - imageUrl: 'https://oomol.com/img/cases-1.png'
+    caption: 'Cases 1'
+  - imageUrl: 'https://oomol.com/img/cases-2.png'
+    caption: 'Cases 2'
+  - imageUrl: 'https://oomol.com/img/cases-2.png'
+    caption: 'Cases 2'
+  - imageUrl: 'https://oomol.com/img/superiority-3.png'
