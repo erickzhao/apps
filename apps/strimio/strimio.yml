@@ -12,12 +12,5 @@ keywords:
   - tv
 snapcraftName: strimio-desktop
 license: https://dtexpk7nyglo5.cloudfront.net/terms.html
-screenshots:
-  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2021/01/Strimio_banner_1920_1080_copy.png'
-    caption: 'Strimio desktop'
-  - imageUrl: 'https://www.strimio.com/images/hero.png'
-    caption: 'Strimio desktop'
-  - imageUrl: 'https://www.strimio.com/images/strimio-dark-home.jpg'
-    caption: 'Strimio desktop'
 disabled: true
 disabledComment: 'See https://github.com/electron/apps/issues/2037'
