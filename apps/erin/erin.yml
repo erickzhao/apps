@@ -1,6 +1,6 @@
 name: Erin
 description: Cross-platform app to change wallpaper automatically.
-website: https://erin-web.herokuapp.com/
+website: https://erin-website.onrender.com/
 snapcraftName: erin
 screenshots:
   - imageUrl: 'https://user-images.githubusercontent.com/57506835/104847259-ac84b500-58e7-11eb-8041-158125e02e40.png'
