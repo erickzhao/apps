@@ -5900,6 +5900,38 @@
     "faintColorOnWhite": "rgba(92, 36, 252, 0.1)"
   },
   {
+    "slug": "horse-browser",
+    "name": "Horse Browser",
+    "description": "The Browser for ADHD minds that think in Trails®, not Tabs. Browse naturally, follow tangents and connections without losing your original thread.",
+    "website": "https://browser.horse",
+    "category": "Productivity",
+    "keywords": [
+      "browser",
+      "productivity",
+      "tabs",
+      "trails",
+      "adhd",
+      "neurodiversity",
+      "research"
+    ],
+    "icon": "horse-browser-icon.png",
+    "icon32": "horse-browser-icon-32.png",
+    "icon64": "horse-browser-icon-64.png",
+    "icon128": "horse-browser-icon-128.png",
+    "icon256": "horse-browser-icon-256.png",
+    "date": "2025-07-08",
+    "iconColors": [
+      "#b1b707",
+      "#34190c",
+      "#b29682",
+      "#6a4633",
+      "#7a5c47"
+    ],
+    "goodColorOnWhite": "#34190C",
+    "goodColorOnBlack": "#B1B707",
+    "faintColorOnWhite": "rgba(52, 25, 12, 0.1)"
+  },
+  {
     "slug": "hoster",
     "name": "Hoster",
     "description": "Hosts configuration tools",

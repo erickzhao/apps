@@ -2959,6 +2959,22 @@
       "revHash": "f8435c93e3"
     }
   },
+  "horse-browser": {
+    "faintColorOnWhite": "rgba(52, 25, 12, 0.1)",
+    "goodColorOnBlack": "#B1B707",
+    "goodColorOnWhite": "#34190C",
+    "palette": [
+      "#b1b707",
+      "#34190c",
+      "#b29682",
+      "#6a4633",
+      "#7a5c47"
+    ],
+    "source": {
+      "path": "apps/horse-browser/horse-browser-icon.png",
+      "revHash": "04903f0a40"
+    }
+  },
   "hoster": {
     "faintColorOnWhite": "rgba(84, 84, 84, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
